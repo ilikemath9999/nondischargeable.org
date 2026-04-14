@@ -6,89 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Nondischargeable Debts List -- Complete Guide to Debts That Survive Bankruptcy [2026]
-Source: https://nondischargeable.org/nondischargeable-debts-list.html
-
-← nondischargeable.org Home
-
-Nondischargeable Debts List
-
-All 19 types of debt that survive bankruptcy under Section 523(a)
-
-What Are Nondischargeable Debts?
-
-Nondischargeable debts are obligations that cannot be eliminated through bankruptcy. Even after receiving a bankruptcy discharge, you remain legally responsible for these debts. They are defined in 11 U.S.C. Section 523(a).
-
-The list below covers every category. The five most commonly encountered are marked with a star.
-
-Complete Nondischargeable Debts List
-
-#Debt TypeSectionCh. 7Ch. 13
-
-1Tax debts (recent/priority) ★523(a)(1)YesYes
-
-2Fraud debts (false pretenses, false financial statements) ★523(a)(2)YesYes
-
-3Debts not listed on schedules (if creditor had no notice)523(a)(3)YesYes
-
-4Embezzlement, larceny, or fiduciary fraud523(a)(4)YesYes
-
-5Child support and alimony (domestic support obligations) ★523(a)(5)YesYes
-
-6Willful and malicious injury to person or property523(a)(6)YesYes
-
-7Government fines, penalties, and forfeitures523(a)(7)YesYes
-
-8Student loans (unless undue hardship proven) ★523(a)(8)YesYes
-
-9DUI/DWI death or injury debts ★523(a)(9)YesYes
-
-10Debts from a prior undischarged case523(a)(10)YesYes
-
-11Fraud or defalcation in a fiduciary capacity (federal depository institution)523(a)(11)YesYes
-
-12Malicious or reckless failure to maintain capital of insured depository523(a)(12)YesYes
-
-13Debts arising from federal court or banking violation orders523(a)(13)YesYes
-
-14Tax or customs duties from fraudulent returns523(a)(14)YesYes
-
-15Divorce/separation property settlement debts523(a)(15)YesNo*
-
-16HOA/condo fees post-petition523(a)(16)YesYes
-
-17Court fees in prisoner litigation523(a)(17)YesYes
-
-18Federal election law debts523(a)(18)YesYes
-
-19Securities law violation debts523(a)(19)YesYes
-
-* 523(a)(15) property settlement debts may be dischargeable in Chapter 13 but not in Chapter 7.
-
-Key Takeaways
-
-Most nondischargeable debts apply in both Chapter 7 and Chapter 13
-
-Some (like fraud debts) require the creditor to file a timely adversary proceeding -- if they miss the deadline, the debt may be discharged by default
-
-Student loans can be discharged through an undue hardship adversary proceeding
-
-Child support and DUI debts have no exceptions -- they always survive
-
-Old tax debts meeting the 3-2-240 rule may be dischargeable
-
-Related Resources
-
-Section 523(a) Deep Dive
-5 Most Common Nondischargeable Debts
-
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information.
-
-This is educational information, not legal advice.
-
----
-
-## Adversary Proceedings to Determine Dischargeability -- Nondischargeable
+## Adversary Proceedings to Determine Dischargeability - Nondischargeable
 Source: https://nondischargeable.org/adversary-proceeding.html
 
 Skip to main content
@@ -107,17 +25,17 @@ All 19
 
 Adversary Proceedings to Determine Dischargeability
 
-When a creditor must file a lawsuit within your bankruptcy case to prevent discharge of a debt -- and what happens if they miss the deadline
+When a creditor must file a lawsuit within your bankruptcy case to prevent discharge of a debt - and what happens if they miss the deadline
 
 Network › Nondischargeable Debts › Adversary Proceedings
 
 What Is an Adversary Proceeding?
 
-An adversary proceeding is a separate lawsuit filed within a bankruptcy case. Think of it as a mini-trial that takes place inside the larger bankruptcy. It has its own case number, its own docket, and follows procedures very similar to a regular federal civil lawsuit -- including a complaint, an answer, discovery (exchange of documents and depositions), and potentially a trial before the bankruptcy judge.
+An adversary proceeding is a separate lawsuit filed within a bankruptcy case. Think of it as a mini-trial that takes place inside the larger bankruptcy. It has its own case number, its own docket, and follows procedures very similar to a regular federal civil lawsuit - including a complaint, an answer, discovery (exchange of documents and depositions), and potentially a trial before the bankruptcy judge.
 
 Adversary proceedings are governed by Part VII of the Federal Rules of Bankruptcy Procedure (Rules 7001 through 7087). These rules incorporate many of the Federal Rules of Civil Procedure by reference, which is why the process feels similar to ordinary litigation.
 
-In the context of nondischargeable debts, a creditor files an adversary proceeding asking the bankruptcy court to declare that a specific debt should not be discharged -- that it should survive the bankruptcy and remain enforceable against the debtor. The creditor is the plaintiff. The debtor is the defendant.
+In the context of nondischargeable debts, a creditor files an adversary proceeding asking the bankruptcy court to declare that a specific debt should not be discharged - that it should survive the bankruptcy and remain enforceable against the debtor. The creditor is the plaintiff. The debtor is the defendant.
 
 When Is an Adversary Proceeding Required?
 
@@ -127,49 +45,49 @@ Debts That Require an Adversary Proceeding
 
 Only three subsections of Section 523(a) require a creditor to file a timely adversary proceeding to prevent discharge:
 
-Section 523(a)(2) -- debts obtained through fraud, false pretenses, false representation, or use of a materially false written financial statement
+Section 523(a)(2) - debts obtained through fraud, false pretenses, false representation, or use of a materially false written financial statement
 
-Section 523(a)(4) -- debts for fraud or defalcation while acting in a fiduciary capacity, embezzlement, or larceny
+Section 523(a)(4) - debts for fraud or defalcation while acting in a fiduciary capacity, embezzlement, or larceny
 
-Section 523(a)(6) -- debts for willful and malicious injury to another person or their property
+Section 523(a)(6) - debts for willful and malicious injury to another person or their property
 
-For these three categories, if the creditor does not file a complaint within the deadline, the debt is discharged -- even if it would have been nondischargeable had the creditor acted in time. The creditor's failure to act results in permanent loss of the right to challenge discharge.
+For these three categories, if the creditor does not file a complaint within the deadline, the debt is discharged - even if it would have been nondischargeable had the creditor acted in time. The creditor's failure to act results in permanent loss of the right to challenge discharge.
 
-Critical distinction: Under 11 U.S.C. Section 523(a)(2), (4), and (6), the creditor bears the burden of filing. If no adversary proceeding is filed, the debt is discharged by default. This is why these are sometimes called "soft" nondischargeability exceptions -- they depend on creditor initiative.
+Critical distinction: Under 11 U.S.C. Section 523(a)(2), (4), and (6), the creditor bears the burden of filing. If no adversary proceeding is filed, the debt is discharged by default. This is why these are sometimes called "soft" nondischargeability exceptions - they depend on creditor initiative.
 
 Debts That Are Automatically Nondischargeable
 
 All other exceptions under Section 523(a) apply automatically, without any creditor action required. These include:
 
-Section 523(a)(1) -- certain tax debts
+Section 523(a)(1) - certain tax debts
 
-Section 523(a)(3) -- debts not listed or scheduled in the bankruptcy
+Section 523(a)(3) - debts not listed or scheduled in the bankruptcy
 
-Section 523(a)(5) -- domestic support obligations (child support, alimony)
+Section 523(a)(5) - domestic support obligations (child support, alimony)
 
-Section 523(a)(7) -- government fines, penalties, and forfeitures
+Section 523(a)(7) - government fines, penalties, and forfeitures
 
-Section 523(a)(8) -- student loans (unless undue hardship is proven)
+Section 523(a)(8) - student loans (unless undue hardship is proven)
 
-Section 523(a)(9) -- debts from death or personal injury caused by DUI/DWI
+Section 523(a)(9) - debts from death or personal injury caused by DUI/DWI
 
-These debts survive the discharge automatically. The creditor does not need to file anything. They simply remain enforceable after the bankruptcy case closes. A debtor who wants to challenge one of these -- for example, arguing a student loan should be discharged for undue hardship -- would need to initiate the adversary proceeding themselves.
+These debts survive the discharge automatically. The creditor does not need to file anything. They simply remain enforceable after the bankruptcy case closes. A debtor who wants to challenge one of these - for example, arguing a student loan should be discharged for undue hardship - would need to initiate the adversary proceeding themselves.
 
-The 60-Day Deadline -- Rule 4007(c)
+The 60-Day Deadline - Rule 4007(c)
 
 Federal Rule of Bankruptcy Procedure 4007(c) sets the deadline for filing complaints to determine dischargeability under Section 523(a)(2), (4), and (6). The deadline is 60 days after the first date set for the Section 341 meeting of creditors.
 
-This is a strict deadline. If the creditor misses it, the debt is discharged -- period. Courts have very limited authority to extend this deadline, and an extension can only be granted if the motion to extend is filed before the original deadline expires. A motion filed even one day late is too late.
+This is a strict deadline. If the creditor misses it, the debt is discharged - period. Courts have very limited authority to extend this deadline, and an extension can only be granted if the motion to extend is filed before the original deadline expires. A motion filed even one day late is too late.
 
-The 60-day deadline is measured from the first date set for the 341 meeting, not the date the meeting actually occurs. If the 341 meeting is continued or rescheduled, the deadline still runs from the original date -- unless the court specifically orders otherwise.
+The 60-day deadline is measured from the first date set for the 341 meeting, not the date the meeting actually occurs. If the 341 meeting is continued or rescheduled, the deadline still runs from the original date - unless the court specifically orders otherwise.
 
 For debtors: If you know a creditor might try to challenge the dischargeability of a debt, watch the calendar carefully. Once the 60-day window closes without a complaint being filed, the debt is discharged and the creditor permanently loses the right to challenge it.
 
-Note that this deadline applies only to Section 523(a)(2), (4), and (6). Complaints under Section 523(a)(15) -- debts to a spouse or former spouse in connection with a divorce (other than support) -- do not have a specific filing deadline and can be filed at any time during the bankruptcy case.
+Note that this deadline applies only to Section 523(a)(2), (4), and (6). Complaints under Section 523(a)(15) - debts to a spouse or former spouse in connection with a divorce (other than support) - do not have a specific filing deadline and can be filed at any time during the bankruptcy case.
 
 How to Respond If an Adversary Proceeding Is Filed Against You
 
-If a creditor files an adversary proceeding against you, you will receive a summons and complaint -- just like in a regular lawsuit. You typically have 30 days to file an answer (Federal Rule of Bankruptcy Procedure 7012). Failing to respond can result in a default judgment declaring the debt nondischargeable.
+If a creditor files an adversary proceeding against you, you will receive a summons and complaint - just like in a regular lawsuit. You typically have 30 days to file an answer (Federal Rule of Bankruptcy Procedure 7012). Failing to respond can result in a default judgment declaring the debt nondischargeable.
 
 Step 1: Read the Complaint Carefully
 
@@ -177,7 +95,7 @@ The complaint will specify which subsection of Section 523(a) the creditor is re
 
 Step 2: File a Timely Answer
 
-Your answer should respond to each numbered paragraph of the complaint -- admitting, denying, or stating that you lack sufficient information to admit or deny. You should also raise any affirmative defenses you may have. Do not ignore the complaint. A default judgment is extremely difficult to undo.
+Your answer should respond to each numbered paragraph of the complaint - admitting, denying, or stating that you lack sufficient information to admit or deny. You should also raise any affirmative defenses you may have. Do not ignore the complaint. A default judgment is extremely difficult to undo.
 
 Step 3: Participate in Discovery
 
@@ -185,11 +103,11 @@ After the pleadings are filed, the case enters discovery. Both sides can request
 
 Step 4: Consider Settlement
 
-Many adversary proceedings settle before trial. Settlement can take many forms -- the debtor agrees that part of the debt is nondischargeable, the creditor accepts a reduced amount, or the parties agree to a payment plan. Settlement avoids the uncertainty and expense of trial for both sides.
+Many adversary proceedings settle before trial. Settlement can take many forms - the debtor agrees that part of the debt is nondischargeable, the creditor accepts a reduced amount, or the parties agree to a payment plan. Settlement avoids the uncertainty and expense of trial for both sides.
 
 Step 5: Trial
 
-If the case does not settle, it proceeds to trial before the bankruptcy judge. There is no jury in adversary proceedings -- the judge decides both the facts and the law. The creditor bears the burden of proof, which for most Section 523(a) exceptions is a preponderance of the evidence (more likely than not). After trial, the judge issues a written decision.
+If the case does not settle, it proceeds to trial before the bankruptcy judge. There is no jury in adversary proceedings - the judge decides both the facts and the law. The creditor bears the burden of proof, which for most Section 523(a) exceptions is a preponderance of the evidence (more likely than not). After trial, the judge issues a written decision.
 
 Settlement in Adversary Proceedings
 
@@ -241,7 +159,7 @@ An adversary proceeding is a lawsuit filed within a bankruptcy case. It is gover
 
 What happens if a creditor misses the 60-day deadline to file?
 
-Under Federal Rule of Bankruptcy Procedure 4007(c), complaints to determine dischargeability under Section 523(a)(2), (4), and (6) must be filed no later than 60 days after the first date set for the meeting of creditors. If the creditor misses this deadline, the debt is discharged -- even if it would have been nondischargeable had the creditor filed on time. The court may extend this deadline only if a motion is filed before the original deadline expires.
+Under Federal Rule of Bankruptcy Procedure 4007(c), complaints to determine dischargeability under Section 523(a)(2), (4), and (6) must be filed no later than 60 days after the first date set for the meeting of creditors. If the creditor misses this deadline, the debt is discharged - even if it would have been nondischargeable had the creditor filed on time. The court may extend this deadline only if a motion is filed before the original deadline expires.
 
 Which nondischargeable debts require an adversary proceeding?
 
@@ -272,24 +190,24 @@ Subscribe
 
 Related Resources
 
-Section 523(a) -- Complete guide to nondischargeable debts in bankruptcy
+Section 523(a) - Complete guide to nondischargeable debts in bankruptcy
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
-Pro Se Debtors -- Resources for representing yourself in bankruptcy court
+Pro Se Debtors - Resources for representing yourself in bankruptcy court
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -400,7 +318,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Debts from Fraud -- Section 523(a)(2) -- Nondischargeable
+## Debts from Fraud - Section 523(a)(2) - Nondischargeable
 Source: https://nondischargeable.org/fraud-debts.html
 
 Skip to main content
@@ -455,24 +373,24 @@ Subscribe
 
 Related Resources
 
-Nondischargeable Debts -- Which debts survive bankruptcy under Section 523(a)
+Nondischargeable Debts - Which debts survive bankruptcy under Section 523(a)
 
-Taxes in Bankruptcy -- Which tax debts can be discharged and which survive
+Taxes in Bankruptcy - Which tax debts can be discharged and which survive
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -582,7 +500,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Nondischargeable Debts in Bankruptcy -- Guide [2026]
+## Nondischargeable Debts in Bankruptcy - Guide [2026]
 Source: https://nondischargeable.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -601,7 +519,7 @@ Willful Injury
 Adversary
 All 19
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Nondischargeable Debts in Bankruptcy
 
@@ -615,9 +533,9 @@ Not all debts can be eliminated in bankruptcy. Section 523(a) nondischargeable d
 
 This site will provide a detailed breakdown of every subsection of Section 523, explaining in plain English what each exception covers, what a creditor must prove to invoke it, and how courts have interpreted these provisions. We will cover the distinction between debts that are automatically nondischargeable and those that require a creditor to file an adversary proceeding.
 
-We will also address the procedural requirements -- including the bar date for filing nondischargeability complaints, the burden of proof standards, and how the Section 523 exceptions interact with the Chapter 7 and Chapter 13 discharge provisions.
+We will also address the procedural requirements - including the bar date for filing nondischargeability complaints, the burden of proof standards, and how the Section 523 exceptions interact with the Chapter 7 and Chapter 13 discharge provisions.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -630,15 +548,15 @@ Explore Nondischargeable Debts
 
 Dive deeper into specific aspects:
 
-Tax Debts -- Section 523(a)(1)
+Tax Debts - Section 523(a)(1)
 
-Debts from Fraud -- Section 523(a)(2)
+Debts from Fraud - Section 523(a)(2)
 
-Domestic Support -- Section 523(a)(5)
+Domestic Support - Section 523(a)(5)
 
-Willful Injury -- Section 523(a)(6)
+Willful Injury - Section 523(a)(6)
 
-Student Loans -- Section 523(a)(8)
+Student Loans - Section 523(a)(8)
 
 Adversary Proceedings to Determine Dischargeability
 
@@ -648,7 +566,7 @@ Criminal Restitution in Bankruptcy
 
 The Complete List of All 19 Nondischargeable Debts
 
-Nondischargeable Debts List -- Full reference table with Chapter 7 vs 13 comparison
+Nondischargeable Debts List - Full reference table with Chapter 7 vs 13 comparison
 
 5 Most Common Nondischargeable Debts
 
@@ -690,24 +608,26 @@ Subscribe
 
 Related Resources
 
-Section 523(a) nondischargeable debts -- Which debts survive bankruptcy under Section 523(a)
+Section 523(a) nondischargeable debts - Which debts survive bankruptcy under Section 523(a)
 
-Taxes in Bankruptcy -- Which tax debts can be discharged and which survive
+Taxes in Bankruptcy - Which tax debts can be discharged and which survive
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
+
+Zombie Debt - When collectors try to revive old, discharged, or time-barred debts
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -749,7 +669,7 @@ bankruptcydischarge.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Rebuild Your Credit
 
@@ -911,11 +831,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -962,11 +885,11 @@ Network › Nondischargeable Debts › All 19 Exceptions
 
 Overview
 
-Section 523(a) of the Bankruptcy Code lists 19 categories of debts that are excepted from the bankruptcy discharge. These debts survive the bankruptcy and remain enforceable against the debtor after the case closes. Not all 19 apply in every case -- most individual bankruptcies involve only a handful of these exceptions, if any.
+Section 523(a) of the Bankruptcy Code lists 19 categories of debts that are excepted from the bankruptcy discharge. These debts survive the bankruptcy and remain enforceable against the debtor after the case closes. Not all 19 apply in every case - most individual bankruptcies involve only a handful of these exceptions, if any.
 
-The 19 exceptions are not all created equal. Some apply automatically (the creditor does nothing and the debt survives). Others require the creditor to file an adversary proceeding within a strict deadline -- and if the creditor misses the deadline, the debt is discharged even if it would otherwise qualify as nondischargeable.
+The 19 exceptions are not all created equal. Some apply automatically (the creditor does nothing and the debt survives). Others require the creditor to file an adversary proceeding within a strict deadline - and if the creditor misses the deadline, the debt is discharged even if it would otherwise qualify as nondischargeable.
 
-Perhaps most importantly, the Chapter 13 discharge is broader than the Chapter 7 discharge. Four of the 19 exceptions that apply in Chapter 7 can be overcome through a completed Chapter 13 plan -- the so-called "superdischarge." This is a significant advantage for debtors who complete Chapter 13.
+Perhaps most importantly, the Chapter 13 discharge is broader than the Chapter 7 discharge. Four of the 19 exceptions that apply in Chapter 7 can be overcome through a completed Chapter 13 plan - the so-called "superdischarge." This is a significant advantage for debtors who complete Chapter 13.
 
 Summary Table
 
@@ -1018,99 +941,99 @@ Ch. 13
 
 The "superdischarge" advantage: Debts under 523(a)(2), (4), (6), and (15) are nondischargeable in Chapter 7 but can be discharged through a completed Chapter 13 plan. This is one of the most powerful reasons to choose Chapter 13 over Chapter 7 for certain debtors. Learn more at section1328.org.
 
-Section 523(a)(1) -- Certain Tax Debts
+Section 523(a)(1) - Certain Tax Debts
 
-Taxes owed to federal, state, or local government that fall outside the three timing rules (3-year, 2-year, 240-day rules) are nondischargeable. This includes income taxes for which a return was due within the past 3 years, taxes where the return was filed late and less than 2 years ago, taxes assessed within the past 240 days, and taxes where the debtor filed a fraudulent return or willfully attempted to evade tax. Payroll taxes and trust fund taxes are never dischargeable regardless of timing. No adversary proceeding is required -- these debts survive automatically. For a detailed breakdown, see our tax debts page and bankruptcytaxes.org.
+Taxes owed to federal, state, or local government that fall outside the three timing rules (3-year, 2-year, 240-day rules) are nondischargeable. This includes income taxes for which a return was due within the past 3 years, taxes where the return was filed late and less than 2 years ago, taxes assessed within the past 240 days, and taxes where the debtor filed a fraudulent return or willfully attempted to evade tax. Payroll taxes and trust fund taxes are never dischargeable regardless of timing. No adversary proceeding is required - these debts survive automatically. For a detailed breakdown, see our tax debts page and bankruptcytaxes.org.
 
-Section 523(a)(2) -- Fraud, False Pretenses, and False Financial Statements
+Section 523(a)(2) - Fraud, False Pretenses, and False Financial Statements
 
-Debts obtained through false pretenses, false representation, actual fraud, or use of a materially false written financial statement are nondischargeable -- but only if the creditor files a timely adversary proceeding. The creditor must prove the debtor made a material misrepresentation, knew it was false, and the creditor reasonably relied on it. If no adversary proceeding is filed within 60 days of the first date set for the 341 meeting, the debt is discharged. This exception is subject to the Chapter 13 superdischarge -- meaning it can be eliminated through a completed Chapter 13 plan. For more, see our fraud debts page.
+Debts obtained through false pretenses, false representation, actual fraud, or use of a materially false written financial statement are nondischargeable - but only if the creditor files a timely adversary proceeding. The creditor must prove the debtor made a material misrepresentation, knew it was false, and the creditor reasonably relied on it. If no adversary proceeding is filed within 60 days of the first date set for the 341 meeting, the debt is discharged. This exception is subject to the Chapter 13 superdischarge - meaning it can be eliminated through a completed Chapter 13 plan. For more, see our fraud debts page.
 
-Section 523(a)(3) -- Debts Not Listed or Scheduled
+Section 523(a)(3) - Debts Not Listed or Scheduled
 
-If a debt is not listed in the debtor's bankruptcy schedules and the creditor did not have notice or actual knowledge of the case in time to file a proof of claim or an adversary proceeding, the debt is nondischargeable. This is why it is critical to list every creditor in your schedules, even debts you think might be nondischargeable for other reasons. An unlisted creditor who had no knowledge of the bankruptcy is not bound by the discharge. No adversary proceeding is required -- this exception applies automatically based on the debtor's failure to schedule the debt.
+If a debt is not listed in the debtor's bankruptcy schedules and the creditor did not have notice or actual knowledge of the case in time to file a proof of claim or an adversary proceeding, the debt is nondischargeable. This is why it is critical to list every creditor in your schedules, even debts you think might be nondischargeable for other reasons. An unlisted creditor who had no knowledge of the bankruptcy is not bound by the discharge. No adversary proceeding is required - this exception applies automatically based on the debtor's failure to schedule the debt.
 
-Section 523(a)(4) -- Fiduciary Fraud, Embezzlement, and Larceny
+Section 523(a)(4) - Fiduciary Fraud, Embezzlement, and Larceny
 
-Debts for fraud or defalcation while acting in a fiduciary capacity, embezzlement, or larceny are nondischargeable. "Fiduciary" in this context has a narrower meaning than in common usage -- it requires an express or technical trust relationship, not merely a relationship of trust and confidence. Embezzlement and larceny have their federal common law meanings. The creditor must file an adversary proceeding within 60 days. This exception is subject to the Chapter 13 superdischarge.
+Debts for fraud or defalcation while acting in a fiduciary capacity, embezzlement, or larceny are nondischargeable. "Fiduciary" in this context has a narrower meaning than in common usage - it requires an express or technical trust relationship, not merely a relationship of trust and confidence. Embezzlement and larceny have their federal common law meanings. The creditor must file an adversary proceeding within 60 days. This exception is subject to the Chapter 13 superdischarge.
 
-Section 523(a)(5) -- Domestic Support Obligations
+Section 523(a)(5) - Domestic Support Obligations
 
-Child support, alimony, maintenance, and other domestic support obligations are nondischargeable. This is one of the strongest exceptions -- it applies automatically, does not require an adversary proceeding, and is not subject to the Chapter 13 superdischarge. It covers obligations owed to a spouse, former spouse, or child, whether established by agreement, court order, or operation of law. It also covers support obligations assigned to a governmental unit. For more, see our support obligations page.
+Child support, alimony, maintenance, and other domestic support obligations are nondischargeable. This is one of the strongest exceptions - it applies automatically, does not require an adversary proceeding, and is not subject to the Chapter 13 superdischarge. It covers obligations owed to a spouse, former spouse, or child, whether established by agreement, court order, or operation of law. It also covers support obligations assigned to a governmental unit. For more, see our support obligations page.
 
-Section 523(a)(6) -- Willful and Malicious Injury
+Section 523(a)(6) - Willful and Malicious Injury
 
 Debts for willful and malicious injury to another person or their property are nondischargeable. The Supreme Court held in Kawaauhau v. Geiger (1998) that "willful" means the debtor intended the injury itself, not merely that the debtor intended the act that caused the injury. Negligence and even gross negligence are not sufficient. The creditor must file an adversary proceeding within 60 days. This exception is subject to the Chapter 13 superdischarge. For more, see our willful injury page.
 
-Section 523(a)(7) -- Government Fines, Penalties, and Forfeitures
+Section 523(a)(7) - Government Fines, Penalties, and Forfeitures
 
 Fines, penalties, and forfeitures payable to and for the benefit of a governmental unit are nondischargeable, to the extent they are not compensation for actual pecuniary loss. This covers criminal fines, traffic tickets, regulatory penalties, and tax penalties related to nondischargeable taxes. It also covers state criminal restitution under the Supreme Court's decision in Kelly v. Robinson (1986). No adversary proceeding is required. For more on criminal restitution, see our restitution page.
 
-Section 523(a)(8) -- Student Loans
+Section 523(a)(8) - Student Loans
 
-Student loan debts are nondischargeable unless the debtor can demonstrate "undue hardship" through an adversary proceeding. The burden is on the debtor to prove undue hardship -- the creditor need not file anything. Most courts apply the Brunner test (three-part test requiring poverty, persistence, and good faith), though the Second Circuit and some other courts have begun moving toward a totality-of-the-circumstances approach. This exception applies to both federal and private student loans. It applies in both Chapter 7 and Chapter 13. For more, see our student loans page.
+Student loan debts are nondischargeable unless the debtor can demonstrate "undue hardship" through an adversary proceeding. The burden is on the debtor to prove undue hardship - the creditor need not file anything. Most courts apply the Brunner test (three-part test requiring poverty, persistence, and good faith), though the Second Circuit and some other courts have begun moving toward a totality-of-the-circumstances approach. This exception applies to both federal and private student loans. It applies in both Chapter 7 and Chapter 13. For more, see our student loans page.
 
-Section 523(a)(9) -- DUI Death or Personal Injury
+Section 523(a)(9) - DUI Death or Personal Injury
 
 Debts for death or personal injury caused by the debtor's operation of a motor vehicle, vessel, or aircraft while legally intoxicated are nondischargeable. This applies automatically without an adversary proceeding. It covers both Chapter 7 and Chapter 13 (no superdischarge). The standard is legal intoxication under applicable law, typically a BAC of 0.08% or higher. Property damage alone is not covered by this specific exception. For more on personal injury debts generally, see our personal injury page.
 
-Section 523(a)(10) -- Debts from a Prior Bankruptcy
+Section 523(a)(10) - Debts from a Prior Bankruptcy
 
 If a debt was or could have been listed in a prior bankruptcy case in which the debtor was denied a discharge or waived discharge, that debt is nondischargeable in the current case. This prevents a debtor from getting a "second bite at the apple" by filing a new bankruptcy to discharge debts that survived a prior case due to the debtor's own misconduct. No adversary proceeding is required.
 
-Section 523(a)(11) -- Federal Depository Institution Fraud
+Section 523(a)(11) - Federal Depository Institution Fraud
 
 Debts owed to a federal depository institution or insured credit union that arise from fraud, embezzlement, or acts committed by the debtor while acting as an officer, director, or person in control of the institution are nondischargeable. This exception was enacted in response to the savings and loan crisis. It applies automatically without an adversary proceeding.
 
-Section 523(a)(12) -- Malicious or Reckless Failure of FDIC-Insured Institutions
+Section 523(a)(12) - Malicious or Reckless Failure of FDIC-Insured Institutions
 
 Debts arising from the debtor's malicious or reckless failure to fulfill a commitment by the debtor to a federal depository institution regulatory agency to maintain the capital of an insured depository institution are nondischargeable. Like Section 523(a)(11), this is a narrow exception aimed at individuals who contributed to bank failures. No adversary proceeding is required.
 
-Section 523(a)(13) -- Federal Criminal Restitution
+Section 523(a)(13) - Federal Criminal Restitution
 
 Restitution included in a sentence on the debtor's conviction of a crime under Title 18 of the United States Code (the federal criminal code) is nondischargeable. This provision was added by BAPCPA in 2005 and specifically targets federal criminal restitution. No adversary proceeding is required. For a detailed analysis of criminal restitution in bankruptcy, see our restitution page.
 
-Section 523(a)(14) -- Debts Incurred to Pay Nondischargeable Taxes
+Section 523(a)(14) - Debts Incurred to Pay Nondischargeable Taxes
 
 If the debtor borrows money (for example, on a credit card) to pay a nondischargeable tax debt, the borrowed amount is also nondischargeable. This prevents a debtor from converting a nondischargeable tax obligation into a dischargeable credit card debt. The logic is straightforward: if you cannot discharge the underlying tax, you should not be able to discharge the loan you took out to pay it. No adversary proceeding is required.
 
-Section 523(a)(14A) -- Debts Incurred to Pay Domestic Support
+Section 523(a)(14A) - Debts Incurred to Pay Domestic Support
 
-Similar to Section 523(a)(14), if the debtor borrows money to pay a domestic support obligation (child support or alimony), the borrowed amount is nondischargeable. This was added by BAPCPA in 2005 and mirrors the logic of Section 523(a)(14) -- the debtor should not be able to convert a nondischargeable support debt into a dischargeable consumer debt. No adversary proceeding is required.
+Similar to Section 523(a)(14), if the debtor borrows money to pay a domestic support obligation (child support or alimony), the borrowed amount is nondischargeable. This was added by BAPCPA in 2005 and mirrors the logic of Section 523(a)(14) - the debtor should not be able to convert a nondischargeable support debt into a dischargeable consumer debt. No adversary proceeding is required.
 
-Section 523(a)(15) -- Divorce Property Settlement Debts
+Section 523(a)(15) - Divorce Property Settlement Debts
 
-Debts to a spouse, former spouse, or child of the debtor that arise from a separation agreement, divorce decree, or other court order -- to the extent they are not domestic support obligations under Section 523(a)(5) -- are nondischargeable in Chapter 7. These are typically property division debts from a divorce, such as an obligation to pay the former spouse a share of a retirement account or to make an equalizing payment. Unlike 523(a)(2), (4), and (6), there is no specific filing deadline for adversary proceedings under 523(a)(15). This exception is subject to the Chapter 13 superdischarge -- one of the most important reasons some divorcing debtors file Chapter 13 rather than Chapter 7.
+Debts to a spouse, former spouse, or child of the debtor that arise from a separation agreement, divorce decree, or other court order - to the extent they are not domestic support obligations under Section 523(a)(5) - are nondischargeable in Chapter 7. These are typically property division debts from a divorce, such as an obligation to pay the former spouse a share of a retirement account or to make an equalizing payment. Unlike 523(a)(2), (4), and (6), there is no specific filing deadline for adversary proceedings under 523(a)(15). This exception is subject to the Chapter 13 superdischarge - one of the most important reasons some divorcing debtors file Chapter 13 rather than Chapter 7.
 
-Section 523(a)(16) -- HOA and Condo Fees
+Section 523(a)(16) - HOA and Condo Fees
 
-Fees and assessments owed to a homeowner's association or condominium association that become due after the bankruptcy petition is filed, for property that the debtor occupies or has a legal, equitable, or possessory interest in, are nondischargeable. This applies to post-petition fees -- fees that arise after the bankruptcy filing. Pre-petition HOA fees may be dischargeable. The purpose is to prevent a debtor from living in a property during bankruptcy without paying ongoing association obligations. No adversary proceeding is required.
+Fees and assessments owed to a homeowner's association or condominium association that become due after the bankruptcy petition is filed, for property that the debtor occupies or has a legal, equitable, or possessory interest in, are nondischargeable. This applies to post-petition fees - fees that arise after the bankruptcy filing. Pre-petition HOA fees may be dischargeable. The purpose is to prevent a debtor from living in a property during bankruptcy without paying ongoing association obligations. No adversary proceeding is required.
 
-Section 523(a)(17) -- Court Fees from Prisoner Litigation
+Section 523(a)(17) - Court Fees from Prisoner Litigation
 
 Court fees or costs imposed against a prisoner by a court for the filing of a case, motion, complaint, or appeal, or for costs assessed against a prisoner under 28 U.S.C. Section 1915 (in forma pauperis proceedings), are nondischargeable. This provision prevents prisoners from using bankruptcy to avoid court-imposed filing fees and costs from their litigation. No adversary proceeding is required.
 
-Section 523(a)(18) -- Tax Penalties on Retirement Accounts
+Section 523(a)(18) - Tax Penalties on Retirement Accounts
 
 Debts for federal tax penalties assessed on tax-advantaged retirement accounts (such as early withdrawal penalties on IRAs or 401(k) plans) are nondischargeable if the tax debt to which the penalty relates is itself nondischargeable under Section 523(a)(1). If the underlying tax is dischargeable, the related penalty may also be dischargeable. No adversary proceeding is required.
 
-Section 523(a)(19) -- Securities Law Violations
+Section 523(a)(19) - Securities Law Violations
 
 Debts arising from violations of federal or state securities laws, or from common-law fraud, deceit, or manipulation in connection with the purchase or sale of a security, are nondischargeable. This includes debts resulting from SEC enforcement actions, state securities commission orders, and court judgments based on securities fraud. The debt must arise from a securities violation as defined by the statute. No adversary proceeding is required.
 
 The Chapter 13 Superdischarge
 
-One of the most significant advantages of Chapter 13 over Chapter 7 is the broader discharge available under 11 U.S.C. Section 1328(a). The Chapter 13 discharge eliminates all debts provided for by the plan except those listed in Section 1328(a)(2), which incorporates most -- but not all -- of the Section 523(a) exceptions.
+One of the most significant advantages of Chapter 13 over Chapter 7 is the broader discharge available under 11 U.S.C. Section 1328(a). The Chapter 13 discharge eliminates all debts provided for by the plan except those listed in Section 1328(a)(2), which incorporates most - but not all - of the Section 523(a) exceptions.
 
 Four categories of nondischargeable debts in Chapter 7 can be discharged through a completed Chapter 13 plan:
 
-523(a)(2) -- Debts obtained by fraud, false pretenses, or false financial statements
+523(a)(2) - Debts obtained by fraud, false pretenses, or false financial statements
 
-523(a)(4) -- Debts for fiduciary fraud, embezzlement, or larceny
+523(a)(4) - Debts for fiduciary fraud, embezzlement, or larceny
 
-523(a)(6) -- Debts for willful and malicious injury
+523(a)(6) - Debts for willful and malicious injury
 
-523(a)(15) -- Divorce property settlement debts (non-support)
+523(a)(15) - Divorce property settlement debts (non-support)
 
 To receive the superdischarge, the debtor must complete all payments under the Chapter 13 plan (typically 3-5 years). If the debtor fails to complete the plan, they may receive only a "hardship discharge" under Section 1328(b), which is narrower and does not include the superdischarge benefit.
 
@@ -1120,11 +1043,11 @@ Frequently Asked Questions
 
 How many types of nondischargeable debts are there?
 
-There are 19 categories listed in 11 U.S.C. Section 523(a), numbered (1) through (19). These cover taxes, fraud, domestic support, student loans, willful injury, government fines, and other specific categories. Not all 19 apply in every case -- most bankruptcies involve only a few of these exceptions, if any.
+There are 19 categories listed in 11 U.S.C. Section 523(a), numbered (1) through (19). These cover taxes, fraud, domestic support, student loans, willful injury, government fines, and other specific categories. Not all 19 apply in every case - most bankruptcies involve only a few of these exceptions, if any.
 
 What is the Chapter 13 superdischarge?
 
-The Chapter 13 superdischarge means certain debts that are nondischargeable in Chapter 7 can be discharged through a completed Chapter 13 plan. Specifically, debts under Section 523(a)(2), (4), (6), and (15) -- fraud, fiduciary fraud/embezzlement/larceny, willful and malicious injury, and divorce property settlements -- can be eliminated if the debtor completes the full Chapter 13 plan.
+The Chapter 13 superdischarge means certain debts that are nondischargeable in Chapter 7 can be discharged through a completed Chapter 13 plan. Specifically, debts under Section 523(a)(2), (4), (6), and (15) - fraud, fiduciary fraud/embezzlement/larceny, willful and malicious injury, and divorce property settlements - can be eliminated if the debtor completes the full Chapter 13 plan.
 
 Which nondischargeable debts require an adversary proceeding?
 
@@ -1155,24 +1078,24 @@ Subscribe
 
 Related Resources
 
-Section 523(a) -- Complete guide to nondischargeable debts in bankruptcy
+Section 523(a) - Complete guide to nondischargeable debts in bankruptcy
 
-The Superdischarge -- Debts that Chapter 13 can eliminate but Chapter 7 cannot
+The Superdischarge - Debts that Chapter 13 can eliminate but Chapter 7 cannot
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -1283,7 +1206,93 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Personal Injury Judgments and Bankruptcy Discharge -- Nondischargeable
+## Nondischargeable Debts List - Complete Guide to Debts That Survive Bankruptcy [2026]
+Source: https://nondischargeable.org/nondischargeable-debts-list.html
+
+← nondischargeable.org Home
+
+Nondischargeable Debts List
+
+All 19 types of debt that survive bankruptcy under Section 523(a)
+
+What Are Nondischargeable Debts?
+
+Nondischargeable debts are obligations that cannot be eliminated through bankruptcy. Even after receiving a bankruptcy discharge, you remain legally responsible for these debts. They are defined in 11 U.S.C. Section 523(a).
+
+The list below covers every category. The five most commonly encountered are marked with a star.
+
+Complete Nondischargeable Debts List
+
+#Debt TypeSectionCh. 7Ch. 13
+
+1Tax debts (recent/priority) ★523(a)(1)YesYes
+
+2Fraud debts (false pretenses, false financial statements) ★523(a)(2)YesYes
+
+3Debts not listed on schedules (if creditor had no notice)523(a)(3)YesYes
+
+4Embezzlement, larceny, or fiduciary fraud523(a)(4)YesYes
+
+5Child support and alimony (domestic support obligations) ★523(a)(5)YesYes
+
+6Willful and malicious injury to person or property523(a)(6)YesYes
+
+7Government fines, penalties, and forfeitures523(a)(7)YesYes
+
+8Student loans (unless undue hardship proven) ★523(a)(8)YesYes
+
+9DUI/DWI death or injury debts ★523(a)(9)YesYes
+
+10Debts from a prior undischarged case523(a)(10)YesYes
+
+11Fraud or defalcation in a fiduciary capacity (federal depository institution)523(a)(11)YesYes
+
+12Malicious or reckless failure to maintain capital of insured depository523(a)(12)YesYes
+
+13Debts arising from federal court or banking violation orders523(a)(13)YesYes
+
+14Tax or customs duties from fraudulent returns523(a)(14)YesYes
+
+15Divorce/separation property settlement debts523(a)(15)YesNo*
+
+16HOA/condo fees post-petition523(a)(16)YesYes
+
+17Court fees in prisoner litigation523(a)(17)YesYes
+
+18Federal election law debts523(a)(18)YesYes
+
+19Securities law violation debts523(a)(19)YesYes
+
+* 523(a)(15) property settlement debts may be dischargeable in Chapter 13 but not in Chapter 7.
+
+Key Takeaways
+
+Most nondischargeable debts apply in both Chapter 7 and Chapter 13
+
+Some (like fraud debts) require the creditor to file a timely adversary proceeding - if they miss the deadline, the debt may be discharged by default
+
+Student loans can be discharged through an undue hardship adversary proceeding
+
+Child support and DUI debts have no exceptions - they always survive
+
+Old tax debts meeting the 3-2-240 rule may be dischargeable
+
+Related Resources
+
+Section 523(a) Deep Dive
+5 Most Common Nondischargeable Debts
+
+Related Resources
+
+1328(f) Discharge Screener
+
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information.
+
+This is educational information, not legal advice.
+
+---
+
+## Personal Injury Judgments and Bankruptcy Discharge - Nondischargeable
 Source: https://nondischargeable.org/personal-injury.html
 
 Skip to main content
@@ -1302,27 +1311,27 @@ All 19
 
 Personal Injury Judgments and Bankruptcy Discharge
 
-Most personal injury debts are dischargeable -- but willful/malicious injuries and DUI injuries are not
+Most personal injury debts are dischargeable - but willful/malicious injuries and DUI injuries are not
 
 Network › Nondischargeable Debts › Personal Injury
 
 The General Rule: Most Personal Injury Debts Are Dischargeable
 
-If you owe money because of a personal injury -- a car accident, a slip-and-fall, medical malpractice, or any other incident where someone was hurt due to your negligence -- that debt can generally be discharged in bankruptcy. This surprises many people, because personal injury judgments can be very large. But under the Bankruptcy Code, the size of a debt has nothing to do with whether it can be discharged.
+If you owe money because of a personal injury - a car accident, a slip-and-fall, medical malpractice, or any other incident where someone was hurt due to your negligence - that debt can generally be discharged in bankruptcy. This surprises many people, because personal injury judgments can be very large. But under the Bankruptcy Code, the size of a debt has nothing to do with whether it can be discharged.
 
-The key question is not how much you owe, but how the injury occurred. The Bankruptcy Code carves out two specific exceptions for personal injury debts: one for willful and malicious injuries under Section 523(a)(6), and one for injuries caused by drunk driving under Section 523(a)(9). Everything else -- the vast majority of personal injury cases -- is dischargeable.
+The key question is not how much you owe, but how the injury occurred. The Bankruptcy Code carves out two specific exceptions for personal injury debts: one for willful and malicious injuries under Section 523(a)(6), and one for injuries caused by drunk driving under Section 523(a)(9). Everything else - the vast majority of personal injury cases - is dischargeable.
 
 Important distinction: Negligence-based personal injury debts are dischargeable. Only intentional injuries and DUI injuries survive bankruptcy. This distinction matters enormously for debtors facing large PI judgments.
 
-Exception 1: Willful and Malicious Injury -- Section 523(a)(6)
+Exception 1: Willful and Malicious Injury - Section 523(a)(6)
 
-Section 523(a)(6) of the Bankruptcy Code excepts from discharge any debt "for willful and malicious injury by the debtor to another entity or to the property of another entity." Both elements -- willful and malicious -- must be present for the exception to apply.
+Section 523(a)(6) of the Bankruptcy Code excepts from discharge any debt "for willful and malicious injury by the debtor to another entity or to the property of another entity." Both elements - willful and malicious - must be present for the exception to apply.
 
 What "Willful" Means
 
 The Supreme Court addressed this in Kawaauhau v. Geiger, 523 U.S. 57 (1998). The Court held that "willful" in Section 523(a)(6) means the debtor intended to cause the injury itself, not merely that the debtor intended to perform the act that resulted in injury. This is a critical distinction.
 
-For example: if you punch someone in the face, you intended to cause injury -- that is willful. But if you run a red light and hit a pedestrian, you intended to run the red light, but you did not intend to injure the pedestrian. The first scenario is willful; the second is negligent (or possibly reckless), but not willful under Section 523(a)(6).
+For example: if you punch someone in the face, you intended to cause injury - that is willful. But if you run a red light and hit a pedestrian, you intended to run the red light, but you did not intend to injure the pedestrian. The first scenario is willful; the second is negligent (or possibly reckless), but not willful under Section 523(a)(6).
 
 What "Malicious" Means
 
@@ -1330,11 +1339,11 @@ Most courts define "malicious" as conduct that is wrongful and without just caus
 
 The Creditor Must File an Adversary Proceeding
 
-Section 523(a)(6) is one of the exceptions that requires a creditor to file a timely adversary proceeding. The creditor must file a complaint within 60 days of the first date set for the Section 341 meeting of creditors (Federal Rule of Bankruptcy Procedure 4007(c)). If the creditor misses this deadline, the debt is discharged -- even if the injury was truly willful and malicious.
+Section 523(a)(6) is one of the exceptions that requires a creditor to file a timely adversary proceeding. The creditor must file a complaint within 60 days of the first date set for the Section 341 meeting of creditors (Federal Rule of Bankruptcy Procedure 4007(c)). If the creditor misses this deadline, the debt is discharged - even if the injury was truly willful and malicious.
 
 This procedural requirement is a significant protection for debtors. A creditor who fails to act within the 60-day window permanently loses the right to challenge dischargeability under Section 523(a)(6). For more on this process, see our adversary proceedings guide.
 
-Exception 2: DUI/DWI Injuries -- Section 523(a)(9)
+Exception 2: DUI/DWI Injuries - Section 523(a)(9)
 
 Section 523(a)(9) excepts from discharge any debt "for death or personal injury caused by the debtor's operation of a motor vehicle, vessel, or aircraft if such operation was unlawful because the debtor was intoxicated from using alcohol, a drug, or another substance."
 
@@ -1370,7 +1379,7 @@ Professional negligence (legal malpractice, accounting errors, etc.)
 
 Dog bite claims in jurisdictions with strict liability or negligence standards
 
-Even gross negligence -- conduct that falls far below the standard of reasonable care -- is generally considered dischargeable. Most courts hold that gross negligence, while more culpable than ordinary negligence, does not rise to the level of "willful and malicious" required by Section 523(a)(6). The Kawaauhau decision reinforced this by requiring actual intent to injure.
+Even gross negligence - conduct that falls far below the standard of reasonable care - is generally considered dischargeable. Most courts hold that gross negligence, while more culpable than ordinary negligence, does not rise to the level of "willful and malicious" required by Section 523(a)(6). The Kawaauhau decision reinforced this by requiring actual intent to injure.
 
 Insurance vs. Personal Liability
 
@@ -1392,7 +1401,7 @@ Personal injury creditors who believe the debtor acted intentionally will file a
 
 Common scenarios where PI creditors invoke Section 523(a)(6):
 
-Assault and battery: Physical attacks that cause injury -- the most straightforward case for willful and malicious injury
+Assault and battery: Physical attacks that cause injury - the most straightforward case for willful and malicious injury
 
 Domestic violence: Injuries from physical abuse by a spouse or partner
 
@@ -1412,7 +1421,7 @@ In Chapter 7, negligence-based PI debts are discharged along with other unsecure
 
 Chapter 13
 
-Chapter 13 offers a broader "superdischarge" under Section 1328(a) that can discharge certain debts that would survive Chapter 7 -- but the superdischarge does not help with personal injury debts in most cases. Section 523(a)(6) debts for willful and malicious injury are excepted from the Chapter 13 superdischarge. Section 523(a)(9) DUI injury debts are also excepted. This means these debts survive in both chapters.
+Chapter 13 offers a broader "superdischarge" under Section 1328(a) that can discharge certain debts that would survive Chapter 7 - but the superdischarge does not help with personal injury debts in most cases. Section 523(a)(6) debts for willful and malicious injury are excepted from the Chapter 13 superdischarge. Section 523(a)(9) DUI injury debts are also excepted. This means these debts survive in both chapters.
 
 However, negligence-based PI debts are dischargeable in both Chapter 7 and Chapter 13, so the chapter choice does not affect their treatment. The advantage of Chapter 13 for someone with a large PI judgment is that the debtor can propose a repayment plan that pays creditors over 3-5 years based on disposable income, rather than facing immediate liquidation.
 
@@ -1420,7 +1429,7 @@ Frequently Asked Questions
 
 Are personal injury judgments dischargeable in bankruptcy?
 
-Most personal injury judgments are dischargeable. If the injury was caused by negligence -- such as an ordinary car accident, a slip-and-fall, or medical malpractice -- the resulting debt can generally be eliminated in Chapter 7 or Chapter 13. The exceptions are injuries caused by willful and malicious conduct under Section 523(a)(6), and injuries caused by driving under the influence under Section 523(a)(9).
+Most personal injury judgments are dischargeable. If the injury was caused by negligence - such as an ordinary car accident, a slip-and-fall, or medical malpractice - the resulting debt can generally be eliminated in Chapter 7 or Chapter 13. The exceptions are injuries caused by willful and malicious conduct under Section 523(a)(6), and injuries caused by driving under the influence under Section 523(a)(9).
 
 What is the difference between negligence and willful/malicious injury?
 
@@ -1438,7 +1447,7 @@ Explore Related Topics
 
 Learn more about willful injury exceptions and adversary proceedings.
 
-Willful Injury -- 523(a)(6)
+Willful Injury - 523(a)(6)
 Adversary Proceedings
 
 Related Guides
@@ -1455,22 +1464,22 @@ Subscribe
 
 Related Resources
 
-Section 523(a) -- Complete guide to nondischargeable debts in bankruptcy
+Section 523(a) - Complete guide to nondischargeable debts in bankruptcy
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -1581,7 +1590,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Is Criminal Restitution Dischargeable in Bankruptcy? -- Nondischargeable
+## Is Criminal Restitution Dischargeable in Bankruptcy? - Nondischargeable
 Source: https://nondischargeable.org/restitution.html
 
 Skip to main content
@@ -1600,7 +1609,7 @@ All 19
 
 Is Criminal Restitution Dischargeable in Bankruptcy?
 
-Section 523(a)(13) and 523(a)(7) -- how criminal restitution, fines, and penalties are treated in Chapter 7 and Chapter 13
+Section 523(a)(13) and 523(a)(7) - how criminal restitution, fines, and penalties are treated in Chapter 7 and Chapter 13
 
 Network › Nondischargeable Debts › Criminal Restitution
 
@@ -1608,9 +1617,9 @@ The Short Answer: No
 
 Criminal restitution is not dischargeable in bankruptcy. Whether the restitution was ordered in a federal criminal case or a state criminal case, it will survive your bankruptcy and remain enforceable after your case closes. This applies in both Chapter 7 and Chapter 13.
 
-The Bankruptcy Code addresses criminal restitution through two separate provisions, each covering different situations. Understanding which provision applies -- and how they interact -- is important for anyone considering bankruptcy while owing criminal restitution.
+The Bankruptcy Code addresses criminal restitution through two separate provisions, each covering different situations. Understanding which provision applies - and how they interact - is important for anyone considering bankruptcy while owing criminal restitution.
 
-Section 523(a)(13) -- Federal Criminal Restitution
+Section 523(a)(13) - Federal Criminal Restitution
 
 Section 523(a)(13) of the Bankruptcy Code provides that a discharge does not discharge an individual debtor from any debt "for restitution included in a sentence on the debtor's conviction of a crime." This provision was added by the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) in 2005.
 
@@ -1624,9 +1633,9 @@ Restitution ordered as a condition of probation or supervised release
 
 Restitution in fraud, identity theft, child exploitation, and other federal offenses
 
-Section 523(a)(13) is automatic -- no adversary proceeding is required. The government does not need to file anything in the bankruptcy case. The restitution simply survives the discharge by operation of law.
+Section 523(a)(13) is automatic - no adversary proceeding is required. The government does not need to file anything in the bankruptcy case. The restitution simply survives the discharge by operation of law.
 
-Section 523(a)(7) -- Fines, Penalties, and Forfeitures
+Section 523(a)(7) - Fines, Penalties, and Forfeitures
 
 Section 523(a)(7) excepts from discharge any debt "to the extent such debt is for a fine, penalty, or forfeiture payable to and for the benefit of a governmental unit, and is not compensation for actual pecuniary loss." This is the broader provision that captures most government-imposed financial obligations arising from criminal proceedings.
 
@@ -1644,7 +1653,7 @@ Certain regulatory penalties and sanctions
 
 There is a key distinction in the statute: the exception under 523(a)(7) applies to fines and penalties that are "not compensation for actual pecuniary loss." This language was designed to distinguish punitive government obligations (which survive) from compensatory payments (which might be dischargeable in some circumstances). However, as discussed below, courts have broadly interpreted this to cover most criminal restitution as well.
 
-Kelly v. Robinson (1986) -- The Supreme Court's Landmark Ruling
+Kelly v. Robinson (1986) - The Supreme Court's Landmark Ruling
 
 Before BAPCPA added Section 523(a)(13) in 2005, the dischargeability of state criminal restitution was a contested issue. The Supreme Court resolved this question in Kelly v. Robinson, 479 U.S. 36 (1986).
 
@@ -1652,7 +1661,7 @@ In Kelly, the Court held that restitution obligations imposed as conditions of s
 
 The Court emphasized several principles:
 
-The primary purpose of criminal restitution is rehabilitative and punitive, not compensatory -- even when the money goes to a victim
+The primary purpose of criminal restitution is rehabilitative and punitive, not compensatory - even when the money goes to a victim
 
 States have a strong interest in enforcing criminal sentences, and bankruptcy should not undermine that interest
 
@@ -1660,7 +1669,7 @@ The Bankruptcy Code should be read to avoid conflicts between federal bankruptcy
 
 Bottom line: After Kelly v. Robinson, state criminal restitution is nondischargeable under Section 523(a)(7), regardless of whether the restitution compensates a specific victim for actual losses. Combined with Section 523(a)(13) for federal criminal restitution, this means criminal restitution from any source survives bankruptcy.
 
-State Criminal Restitution -- Circuit Variations
+State Criminal Restitution - Circuit Variations
 
 While Kelly v. Robinson established the general rule, some nuances remain in how different circuits apply the nondischargeability rules to state criminal restitution. Most circuits follow Kelly broadly and treat all criminal restitution as nondischargeable.
 
@@ -1676,7 +1685,7 @@ In Chapter 7, criminal restitution is simply excepted from discharge. The debtor
 
 Chapter 13
 
-In Chapter 13, criminal restitution can be listed in the repayment plan, and payments may be made through the plan. However, the "superdischarge" available in Chapter 13 -- which can discharge some debts that survive Chapter 7, such as certain fraud debts under 523(a)(2) -- does not extend to criminal restitution. Section 1328(a)(3) specifically excludes debts under 523(a)(7) and 523(a)(13) from the Chapter 13 discharge.
+In Chapter 13, criminal restitution can be listed in the repayment plan, and payments may be made through the plan. However, the "superdischarge" available in Chapter 13 - which can discharge some debts that survive Chapter 7, such as certain fraud debts under 523(a)(2) - does not extend to criminal restitution. Section 1328(a)(3) specifically excludes debts under 523(a)(7) and 523(a)(13) from the Chapter 13 discharge.
 
 This means that any unpaid balance on criminal restitution after the Chapter 13 plan completes remains the debtor's obligation. Chapter 13 can help manage the payments, but it cannot eliminate the debt.
 
@@ -1710,7 +1719,7 @@ Criminal restitution can be listed in a Chapter 13 plan, but it cannot be discha
 
 Does the automatic stay stop criminal restitution collection?
 
-The automatic stay under Section 362(b)(1) does not stay criminal proceedings. Criminal enforcement of restitution -- such as probation violations for nonpayment -- continues during bankruptcy. Civil collection efforts on a restitution judgment may be temporarily paused, depending on the jurisdiction.
+The automatic stay under Section 362(b)(1) does not stay criminal proceedings. Criminal enforcement of restitution - such as probation violations for nonpayment - continues during bankruptcy. Civil collection efforts on a restitution judgment may be temporarily paused, depending on the jurisdiction.
 
 Learn More About Nondischargeable Debts
 
@@ -1733,22 +1742,22 @@ Subscribe
 
 Related Resources
 
-Section 523(a) -- Complete guide to nondischargeable debts in bankruptcy
+Section 523(a) - Complete guide to nondischargeable debts in bankruptcy
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work
+Chapter 13 Plans - How Chapter 13 repayment plans work
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -1859,7 +1868,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Student Loans in Bankruptcy -- Section 523(a)(8) -- Nondischargeable
+## Student Loans in Bankruptcy - Section 523(a)(8) - Nondischargeable
 Source: https://nondischargeable.org/student-loans.html
 
 Skip to main content
@@ -1916,24 +1925,24 @@ Subscribe
 
 Related Resources
 
-Nondischargeable Debts -- Which debts survive bankruptcy under Section 523(a)
+Nondischargeable Debts - Which debts survive bankruptcy under Section 523(a)
 
-Taxes in Bankruptcy -- Which tax debts can be discharged and which survive
+Taxes in Bankruptcy - Which tax debts can be discharged and which survive
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -2043,7 +2052,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Domestic Support Obligations -- Section 523(a)(5) -- Nondischargeable
+## Domestic Support Obligations - Section 523(a)(5) - Nondischargeable
 Source: https://nondischargeable.org/support-obligations.html
 
 Skip to main content
@@ -2068,7 +2077,7 @@ Network › Nondischargeable Debts
 
 Always Nondischargeable
 
-Domestic support obligations -- child support, spousal support, alimony, and maintenance -- are never dischargeable in any chapter of bankruptcy. This is one of the few absolute rules in bankruptcy law.
+Domestic support obligations - child support, spousal support, alimony, and maintenance - are never dischargeable in any chapter of bankruptcy. This is one of the few absolute rules in bankruptcy law.
 
 Priority Status
 
@@ -2096,24 +2105,24 @@ Subscribe
 
 Related Resources
 
-Nondischargeable Debts -- Which debts survive bankruptcy under Section 523(a)
+Nondischargeable Debts - Which debts survive bankruptcy under Section 523(a)
 
-Taxes in Bankruptcy -- Which tax debts can be discharged and which survive
+Taxes in Bankruptcy - Which tax debts can be discharged and which survive
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -2223,7 +2232,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Tax Debts in Bankruptcy -- Section 523(a)(1) -- Nondischargeable
+## Tax Debts in Bankruptcy - Section 523(a)(1) - Nondischargeable
 Source: https://nondischargeable.org/tax-debts.html
 
 Skip to main content
@@ -2248,7 +2257,7 @@ Network › Nondischargeable Debts
 
 The Three Timing Rules
 
-For income taxes to be dischargeable, ALL three must be met: (1) 3-year rule -- the tax return was due at least 3 years ago, (2) 2-year rule -- the return was actually filed at least 2 years ago, (3) 240-day rule -- the tax was assessed at least 240 days ago.
+For income taxes to be dischargeable, ALL three must be met: (1) 3-year rule - the tax return was due at least 3 years ago, (2) 2-year rule - the return was actually filed at least 2 years ago, (3) 240-day rule - the tax was assessed at least 240 days ago.
 
 Never Dischargeable
 
@@ -2256,7 +2265,7 @@ Payroll taxes and trust fund taxes are never dischargeable. Taxes where no retur
 
 Tax Liens Survive
 
-Even if the personal liability for a tax debt is discharged, a recorded tax lien survives bankruptcy and continues to attach to your property. You must deal with liens separately -- either paying them, negotiating with the IRS, or waiting for them to expire.
+Even if the personal liability for a tax debt is discharged, a recorded tax lien survives bankruptcy and continues to attach to your property. You must deal with liens separately - either paying them, negotiating with the IRS, or waiting for them to expire.
 
 Full tax debt guide
 
@@ -2276,24 +2285,24 @@ Subscribe
 
 Related Resources
 
-Nondischargeable Debts -- Which debts survive bankruptcy under Section 523(a)
+Nondischargeable Debts - Which debts survive bankruptcy under Section 523(a)
 
-Taxes in Bankruptcy -- Which tax debts can be discharged and which survive
+Taxes in Bankruptcy - Which tax debts can be discharged and which survive
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -2403,7 +2412,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Willful and Malicious Injury -- Section 523(a)(6) -- Nondischargeable
+## Willful and Malicious Injury - Section 523(a)(6) - Nondischargeable
 Source: https://nondischargeable.org/willful-injury.html
 
 Skip to main content
@@ -2428,7 +2437,7 @@ Network › Nondischargeable Debts
 
 What Qualifies
 
-Section 523(a)(6) excepts from discharge debts arising from willful and malicious injury by the debtor to another entity or to the property of another entity. Both elements -- willful AND malicious -- must be present.
+Section 523(a)(6) excepts from discharge debts arising from willful and malicious injury by the debtor to another entity or to the property of another entity. Both elements - willful AND malicious - must be present.
 
 Willful means the debtor intended the act itself. Malicious means the act was done without just cause or excuse. Mere negligence or recklessness is not enough.
 
@@ -2458,24 +2467,24 @@ Subscribe
 
 Related Resources
 
-Nondischargeable Debts -- Which debts survive bankruptcy under Section 523(a)
+Nondischargeable Debts - Which debts survive bankruptcy under Section 523(a)
 
-Taxes in Bankruptcy -- Which tax debts can be discharged and which survive
+Taxes in Bankruptcy - Which tax debts can be discharged and which survive
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -2582,3 +2591,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - nondischargeable.org
+Source: https://nondischargeable.org/privacy.html
+
+nondischargeable.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
