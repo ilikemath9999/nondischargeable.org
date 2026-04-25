@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Debts from Fraud - Section 523(a)(2) - Nondischargeable</title>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" name="description"/>
-<meta content="nondischargeable debts, bankruptcy, nondischargeable" name="keywords"/>
-<link href="https://nondischargeable.org/fraud-debts.html" rel="canonical"/>
+<title>Adversary Proceedings to Determine Dischargeability - Nondischargeable</title>
+<meta content="Learn about adversary proceedings to determine dischargeability | nondischargeable.org in our free 2026 guide." name="description"/>
+<meta content="adversary proceeding, dischargeability, bankruptcy, 523, nondischargeable, complaint to determine dischargeability" name="keywords"/>
+<link href="https://nondischargeable.org/adversary-proceeding.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="Debts from Fraud - Section 523(a)(2) - Nondischargeable" property="og:title"/>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" property="og:description"/>
-<meta content="website" property="og:type"/>
-<meta content="https://nondischargeable.org/fraud-debts.html" property="og:url"/>
+<meta content="Adversary Proceedings to Determine Dischargeability - Nondischargeable" property="og:title"/>
+<meta content="Learn about adversary proceedings to determine dischargeability | nondischargeable.org in our free 2026 guide." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://nondischargeable.org/adversary-proceeding.html" property="og:url"/>
 <meta content="nondischargeable.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Debts from Fraud - Section 523(a)(2) - Nondischargeable" name="twitter:title"/>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" name="twitter:description"/>
+<meta content="Adversary Proceedings to Determine Dischargeability - Nondischargeable" name="twitter:title"/>
+<meta content="Learn about adversary proceedings to determine dischargeability | nondischargeable.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://nondischargeable.org/og-image.svg" property="og:image"/>
 <meta content="https://nondischargeable.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -56,6 +56,53 @@
       "position": 2,
       "name": "Nondischargeable Debts",
       "item": "https://nondischargeable.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Adversary Proceedings",
+      "item": "https://nondischargeable.org/adversary-proceeding.html"
+    }
+  ]
+}
+</script>
+<!-- FAQPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an adversary proceeding in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An adversary proceeding is a lawsuit filed within a bankruptcy case. It is governed by Part VII of the Federal Rules of Bankruptcy Procedure (Rules 7001-7087) and follows procedures similar to a civil lawsuit in federal court, including a complaint, answer, discovery, and potentially a trial. In the context of dischargeability, a creditor files an adversary proceeding asking the court to declare that a specific debt should survive the debtor's discharge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a creditor misses the 60-day deadline to file an adversary proceeding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Federal Rule of Bankruptcy Procedure 4007(c), complaints to determine dischargeability under Section 523(a)(2), (4), and (6) must be filed no later than 60 days after the first date set for the meeting of creditors. If the creditor misses this deadline, the debt is discharged - even if it would have been nondischargeable had the creditor filed on time. The court may extend this deadline only if a motion is filed before the original deadline expires."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which nondischargeable debts require an adversary proceeding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only three categories under Section 523(a) require a creditor to file a timely adversary proceeding: (a)(2) debts obtained by fraud, false pretenses, or false financial statements; (a)(4) debts for fraud or defalcation while acting as a fiduciary, embezzlement, or larceny; and (a)(6) debts for willful and malicious injury. If no adversary proceeding is filed within the deadline, these debts are discharged. All other nondischargeable debts under Section 523(a) - such as taxes, student loans, and domestic support obligations - survive automatically without any creditor action."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can an adversary proceeding be settled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Many adversary proceedings are settled before trial. Common settlement terms include the debtor agreeing that a portion of the debt is nondischargeable, the creditor accepting a reduced payment, or the parties agreeing to a payment plan. Settlement can occur at any stage - after filing, during discovery, or even during trial. The settlement must be approved by the bankruptcy court and typically results in a consent judgment."
+      }
     }
   ]
 }
@@ -66,8 +113,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Nondischargeable Debts",
-      "description": "Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523",
+      "headline": "Adversary Proceedings to Determine Dischargeability",
+      "description": "What is an adversary proceeding in bankruptcy? When creditors must file one to block discharge, the 60-day deadline, and how to respond if you are sued.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -79,12 +126,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://nondischargeable.org/fraud-debts.html"
+      "mainEntityOfPage": "https://nondischargeable.org/adversary-proceeding.html"
     },
     {
       "@type": "WebPage",
-      "name": "Nondischargeable Debts",
-      "url": "https://nondischargeable.org/fraud-debts.html",
+      "name": "Adversary Proceedings to Determine Dischargeability",
+      "url": "https://nondischargeable.org/adversary-proceeding.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -140,12 +187,17 @@
   main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
   .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
   .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.25rem 0 0.5rem; }
   .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
   .content-section p:last-child { margin-bottom: 0; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0; padding-left: 1.5rem; }
+  .content-section li { margin-bottom: 0.5rem; font-size: 0.95rem; }
   .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .green-box p { margin-bottom: 0.5rem; }
   .green-box p:last-child { margin-bottom: 0; }
-  .coming-soon { display: inline-block; background: var(--yellow); color: #0d1117; font-size: 0.75rem; font-weight: 700; padding: 0.2rem 0.6rem; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; }
+  .warning-box p:last-child { margin-bottom: 0; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -172,32 +224,8 @@
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
   }
 </style>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a bankruptcy mill?", "acceptedAnswer": {"@type": "Answer", "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients."}}, {"@type": "Question", "name": "How do I know if my bankruptcy attorney is a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Warning signs include: you rarely speak with an actual attorney, your case is one of hundreds filed monthly, communications come only from paralegals, hearings are attended by attorneys you have never met, and billing entries are generic or duplicated."}}, {"@type": "Question", "name": "What problems do bankruptcy mills cause?", "acceptedAnswer": {"@type": "Answer", "text": "Common issues include missed deadlines, incorrect schedules, failure to claim available exemptions, dismissed cases, unnecessary fees, and lack of personalized legal advice. Clients may lose assets they could have protected with competent counsel."}}, {"@type": "Question", "name": "Can I fire my bankruptcy attorney if they are a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can substitute counsel or proceed pro se at any time. File a motion to substitute counsel with the court. You may also be entitled to a refund of fees for work not performed or performed negligently."}}, {"@type": "Question", "name": "How many cases should a bankruptcy attorney handle?", "acceptedAnswer": {"@type": "Answer", "text": "There is no hard limit, but attorneys filing more than 20-30 cases per month may struggle to provide adequate individual attention. Quality representation requires reviewing each client's unique financial situation, assets, and exemptions."}}]}
-</script>
-<link href="https://nondischargeable.org/fraud-debts.html" hreflang="en" rel="alternate"/>
-<link href="https://nondischargeable.org/fraud-debts-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://nondischargeable.org/adversary-proceeding.html" hreflang="en" rel="alternate"/>
+<link href="https://nondischargeable.org/adversary-proceeding-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -208,37 +236,124 @@
 <a href="/">Home</a>
 <a href="/tax-debts.html">Tax Debts</a>
 <a href="/student-loans.html">Student Loans</a>
-<a class="active" href="/fraud-debts.html">Fraud</a>
+<a href="/fraud-debts.html">Fraud</a>
 <a href="/support-obligations.html">Support</a>
 <a href="/willful-injury.html">Willful Injury</a>
-<a href="/adversary-proceeding.html">Adversary</a>
+<a class="active" href="/adversary-proceeding.html">Adversary</a>
 <a href="/list-of-19.html">All 19</a>
 </div>
 </nav>
 <header>
-<h1><span class="accent">Nondischargeable Debts</span></h1>
-<p class="subtitle">Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/523" rel="noopener" target="_blank">Section 523</a></p>
+<h1><span class="accent">Adversary Proceedings</span> to Determine Dischargeability</h1>
+<p class="subtitle">When a creditor must file a lawsuit within your bankruptcy case to prevent discharge of a debt - and what happens if they miss the deadline</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › Nondischargeable Debts
+<a href="https://1328f.com/">Network</a> › <a href="/">Nondischargeable Debts</a> › Adversary Proceedings
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>False Pretenses and False Representation</h2>
-<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2)(A) excepts from <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> debts obtained by false pretenses, false representation, or actual fraud. The creditor must prove that the debtor made a knowingly false statement that the creditor relied upon in extending credit.</p>
+<h2>What Is an Adversary Proceeding?</h2>
+<p>An adversary proceeding is a separate lawsuit filed within a bankruptcy case. Think of it as a mini-trial that takes place inside the larger bankruptcy. It has its own case number, its own docket, and follows procedures very similar to a regular federal civil lawsuit - including a complaint, an answer, discovery (exchange of documents and depositions), and potentially a trial before the bankruptcy judge.</p>
+<p>Adversary proceedings are governed by Part VII of the Federal Rules of Bankruptcy Procedure (Rules 7001 through 7087). These rules incorporate many of the Federal Rules of Civil Procedure by reference, which is why the process feels similar to ordinary litigation.</p>
+<p>In the context of nondischargeable debts, a creditor files an adversary proceeding asking the bankruptcy court to declare that a specific debt should not be discharged - that it should survive the bankruptcy and remain enforceable against the debtor. The creditor is the plaintiff. The debtor is the defendant.</p>
 </div>
 <div class="content-section">
-<h2>Credit Card Fraud Presumption</h2>
-<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2)(C) creates a presumption of fraud for certain credit card charges: luxury goods or services exceeding $725 within 90 days of filing, and cash advances exceeding $1,000 within 70 days of filing. These thresholds are adjusted periodically.</p>
+<h2>When Is an Adversary Proceeding Required?</h2>
+<p>This is one of the most important distinctions in bankruptcy law. Not all nondischargeable debts require a creditor to take any action. The 19 exceptions to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> under 11 U.S.C. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a) fall into two categories:</p>
+<h3>Debts That Require an Adversary Proceeding</h3>
+<p>Only three subsections of <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a) require a creditor to file a timely adversary proceeding to prevent <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>:</p>
+<ul>
+<li><strong><a href="https://523a.org/" title="Section 523(a)">Section 523(a)</a>(2)</strong> - debts obtained through fraud, false pretenses, false representation, or use of a materially false written financial statement</li>
+<li><strong><a href="https://523a.org/" title="Section 523(a)">Section 523(a)</a>(4)</strong> - debts for fraud or defalcation while acting in a fiduciary capacity, embezzlement, or larceny</li>
+<li><strong>Section 523(a)(6)</strong> - debts for willful and malicious injury to another person or their property</li>
+</ul>
+<p>For these three categories, if the creditor does not file a complaint within the deadline, the debt is discharged - even if it would have been nondischargeable had the creditor acted in time. The creditor's failure to act results in permanent loss of the right to challenge discharge.</p>
+<div class="warning-box">
+<p><strong>Critical distinction:</strong> Under 11 U.S.C. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2), (4), and (6), the creditor bears the burden of filing. If no adversary proceeding is filed, the debt is discharged by default. This is why these are sometimes called "soft" nondischargeability exceptions - they depend on creditor initiative.</p>
+</div>
+<h3>Debts That Are Automatically Nondischargeable</h3>
+<p>All other exceptions under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a) apply automatically, without any creditor action required. These include:</p>
+<ul>
+<li><strong><a href="https://www.law.cornell.edu/uscode/text/11/523#a_1" rel="noopener" target="_blank">Section 523(a)(1)</a></strong> - certain tax debts</li>
+<li><strong>Section 523(a)(3)</strong> - debts not listed or scheduled in the bankruptcy</li>
+<li><strong>Section 523(a)(5)</strong> - domestic support obligations (child support, alimony)</li>
+<li><strong>Section 523(a)(7)</strong> - government fines, penalties, and forfeitures</li>
+<li><strong><a href="https://www.law.cornell.edu/uscode/text/11/523#a_8" rel="noopener" target="_blank">Section 523(a)(8)</a></strong> - <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a> (unless <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> is proven)</li>
+<li><strong>Section 523(a)(9)</strong> - debts from death or personal injury caused by DUI/DWI</li>
+</ul>
+<p>These debts survive the discharge automatically. The creditor does not need to file anything. They simply remain enforceable after the bankruptcy case closes. A debtor who wants to challenge one of these - for example, arguing a <a href="https://bankruptcystudentloans.org/" title="student loans">student loan</a> should be discharged for <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> - would need to initiate the adversary proceeding themselves.</p>
 </div>
 <div class="content-section">
-<h2>The 60-Day Deadline</h2>
-<p>Creditors who want to challenge dischargeability under <a href="https://523a.org/" title="Section 523(a)">523(a)</a>(2) must file an adversary proceeding within 60 days of the first date set for the 341 <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a>. If they miss this deadline, the debt is discharged regardless of fraud.</p>
-<p>This deadline is strictly enforced. Many fraud claims are lost simply because the creditor did not file in time.</p>
+<h2>The 60-Day Deadline - Rule 4007(c)</h2>
+<p>Federal Rule of Bankruptcy Procedure 4007(c) sets the deadline for filing complaints to determine dischargeability under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2), (4), and (6). The deadline is 60 days after the first date set for the <a href="https://www.law.cornell.edu/uscode/text/11/341" rel="noopener" target="_blank">Section 341</a> <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a>.</p>
+<p>This is a strict deadline. If the creditor misses it, the debt is discharged - period. Courts have very limited authority to extend this deadline, and an extension can only be granted if the motion to extend is filed before the original deadline expires. A motion filed even one day late is too late.</p>
+<p>The 60-day deadline is measured from the first date set for the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>, not the date the meeting actually occurs. If the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> is continued or rescheduled, the deadline still runs from the original date - unless the court specifically orders otherwise.</p>
+<div class="green-box">
+<p><strong>For debtors:</strong> If you know a creditor might try to challenge the dischargeability of a debt, watch the calendar carefully. Once the 60-day window closes without a complaint being filed, the debt is discharged and the creditor permanently loses the right to challenge it.</p>
+</div>
+<p>Note that this deadline applies only to <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2), (4), and (6). Complaints under Section 523(a)(15) - debts to a spouse or former spouse in connection with a divorce (other than support) - do not have a specific filing deadline and can be filed at any time during the bankruptcy case.</p>
+</div>
+<div class="content-section">
+<h2>How to Respond If an Adversary Proceeding Is Filed Against You</h2>
+<p>If a creditor files an adversary proceeding against you, you will receive a summons and complaint - just like in a regular lawsuit. You typically have 30 days to file an answer (Federal Rule of Bankruptcy Procedure 7012). Failing to respond can result in a <a href="https://defaultjudgment.org/" title="default judgment">default judgment</a> declaring the debt nondischargeable.</p>
+<h3>Step 1: Read the Complaint Carefully</h3>
+<p>The complaint will specify which subsection of Section 523(a) the creditor is relying on. This matters because each subsection has different elements the creditor must prove. Understanding what the creditor must demonstrate is the starting point for your defense.</p>
+<h3>Step 2: File a Timely Answer</h3>
+<p>Your answer should respond to each numbered paragraph of the complaint - admitting, denying, or stating that you lack sufficient information to admit or deny. You should also raise any affirmative defenses you may have. Do not ignore the complaint. A <a href="https://defaultjudgment.org/" title="default judgment">default judgment</a> is extremely difficult to undo.</p>
+<h3>Step 3: Participate in Discovery</h3>
+<p>After the pleadings are filed, the case enters discovery. Both sides can request documents, send written questions (interrogatories), and take depositions. This is where most of the factual development happens. The scope and duration of discovery will depend on the complexity of the case and the amount at stake.</p>
+<h3>Step 4: Consider Settlement</h3>
+<p>Many adversary proceedings settle before trial. Settlement can take many forms - the debtor agrees that part of the debt is nondischargeable, the creditor accepts a reduced amount, or the parties agree to a payment plan. Settlement avoids the uncertainty and expense of trial for both sides.</p>
+<h3>Step 5: Trial</h3>
+<p>If the case does not settle, it proceeds to trial before the bankruptcy judge. There is no jury in adversary proceedings - the judge decides both the facts and the law. The creditor bears the burden of proof, which for most Section 523(a) exceptions is a preponderance of the evidence (more likely than not). After trial, the judge issues a written decision.</p>
+</div>
+<div class="content-section">
+<h2>Settlement in Adversary Proceedings</h2>
+<p>Settlement is common and often makes sense for both sides. For the creditor, settlement avoids the risk of losing at trial and recovering nothing. For the debtor, settlement can result in a smaller nondischargeable amount than what the creditor originally sought.</p>
+<p>Typical settlement structures include:</p>
+<ul>
+<li>The debtor agrees that a specific dollar amount is nondischargeable, often less than the full claim</li>
+<li>The creditor agrees to accept payments over time rather than a lump sum</li>
+<li>The parties agree to dismiss the adversary proceeding with prejudice, effectively discharging the debt</li>
+<li>A consent judgment is entered, which becomes enforceable after the bankruptcy closes</li>
+</ul>
+<p>Any settlement must be presented to and approved by the bankruptcy court. The settlement is typically documented in a stipulation or consent order filed on the adversary proceeding docket.</p>
+</div>
+<div class="content-section">
+<h2>The Complaint, Answer, Discovery, and Trial Process</h2>
+<p>The adversary proceeding follows a structured litigation process:</p>
+<p><strong>Complaint (Rule 7003):</strong> The creditor files a complaint stating the facts and legal basis for nondischargeability. The complaint must be accompanied by a filing fee and is assigned its own adversary proceeding number (separate from the main bankruptcy case number).</p>
+<p><strong>Summons and Service (Rule 7004):</strong> The court issues a summons, which is served on the debtor along with the complaint. Service can be made by first-class mail in bankruptcy (unlike regular federal court, which requires personal service or waiver).</p>
+<p><strong>Answer (Rule 7012):</strong> The debtor has 30 days from service to file an answer. The answer responds to each allegation and raises any defenses.</p>
+<p><strong>Discovery (Rules 7026-7037):</strong> Both sides exchange documents, answer written questions, and may take depositions. The bankruptcy court may set a discovery schedule and deadlines.</p>
+<p><strong>Pre-Trial Motions:</strong> Either side may file motions for summary judgment (asking the court to decide the case without trial because no genuine factual dispute exists) or other pre-trial motions.</p>
+<p><strong>Trial:</strong> If the case proceeds to trial, it is a bench trial before the bankruptcy judge. The creditor presents evidence first, then the debtor. The judge may issue a decision from the bench or take the matter under advisement and issue a written opinion later.</p>
+<p><strong>Judgment:</strong> The court enters judgment either declaring the debt nondischargeable or ruling in favor of the debtor (meaning the debt is discharged). The losing party can appeal to the district court or the Bankruptcy Appellate Panel.</p>
+</div>
+<div class="content-section">
+<h2>Pro Se Debtors in Adversary Proceedings</h2>
+<p>If you are representing yourself (<a href="https://prosebankruptcy.org/" title="pro se">pro se</a>) in an adversary proceeding, you face a real litigation process. While bankruptcy courts are generally patient with <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> litigants, the rules still apply. You must meet deadlines, follow the rules of evidence, and present your case in a structured way.</p>
+<p>Consider consulting with an attorney even if you cannot afford full representation. Many bankruptcy attorneys offer limited-scope representation for adversary proceedings, where they help you prepare your answer and advise on strategy without handling the entire case. Some legal aid organizations also provide assistance with adversary proceedings.</p>
+<p>For more information on representing yourself in bankruptcy court, see <a href="https://prosedebtors.org">prosedebtors.org</a>.</p>
+</div>
+<div class="content-section">
+<h2>Frequently Asked Questions</h2>
+<h3>What is an adversary proceeding in bankruptcy?</h3>
+<p>An adversary proceeding is a lawsuit filed within a bankruptcy case. It is governed by Part VII of the Federal Rules of Bankruptcy Procedure (Rules 7001-7087) and follows procedures similar to a civil lawsuit in federal court, including a complaint, answer, discovery, and potentially a trial. In the context of dischargeability, a creditor files an adversary proceeding asking the court to declare that a specific debt should survive the debtor's discharge.</p>
+<h3>What happens if a creditor misses the 60-day deadline to file?</h3>
+<p>Under Federal Rule of Bankruptcy Procedure 4007(c), complaints to determine dischargeability under <a href="https://www.law.cornell.edu/uscode/text/11/523#a_2" rel="noopener" target="_blank">Section 523(a)(2)</a>, (4), and (6) must be filed no later than 60 days after the first date set for the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a>. If the creditor misses this deadline, the debt is discharged - even if it would have been nondischargeable had the creditor filed on time. The court may extend this deadline only if a motion is filed before the original deadline expires.</p>
+<h3>Which nondischargeable debts require an adversary proceeding?</h3>
+<p>Only three categories under Section 523(a) require a creditor to file a timely adversary proceeding: (a)(2) debts obtained by fraud, false pretenses, or false financial statements; (a)(4) debts for fraud or defalcation while acting as a fiduciary, embezzlement, or larceny; and (a)(6) debts for willful and malicious injury. If no adversary proceeding is filed within the deadline, these debts are discharged. All other nondischargeable debts survive automatically.</p>
+<h3>Can an adversary proceeding be settled?</h3>
+<p>Yes. Many adversary proceedings are settled before trial. Common settlement terms include the debtor agreeing that a portion of the debt is nondischargeable, the creditor accepting a reduced payment, or the parties agreeing to a payment plan. Settlement can occur at any stage. The settlement must be approved by the bankruptcy court.</p>
 </div>
 <div class="cta-box">
-<p>Learn about all nondischargeable debts</p>
-<a class="btn" href="https://nondischargeable.org">Nondischargeable Debts Guide</a>
+<h3>Explore Nondischargeable Debts</h3>
+<p>Learn which debts survive bankruptcy and which are eliminated.</p>
+<div class="cta-links">
+<a class="primary-btn" href="https://523a.org?utm_source=nondischargeable.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Section 523(a) Guide</a>
+<a class="secondary-btn" href="https://dischargeinjunction.com?utm_source=nondischargeable.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Discharge Injunction</a>
+</div>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
@@ -260,9 +375,9 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://523a.org" style="color:#58a6ff">Nondischargeable Debts</a> - Which debts survive bankruptcy under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcytaxes.org" style="color:#58a6ff">Taxes in Bankruptcy</a> - Which tax debts can be discharged and which survive</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://dischargeinjunction.org" style="color:#58a6ff">The Discharge Injunction</a> - How <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a> permanently bars creditor collection after discharge</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://523a.org" style="color:#58a6ff">Section 523(a)</a> - Complete guide to nondischargeable debts in bankruptcy</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://dischargeinjunction.com" style="color:#58a6ff">The Discharge Injunction</a> - How <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a> permanently bars creditor collection after discharge</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://prosedebtors.org" style="color:#58a6ff">Pro Se Debtors</a> - Resources for representing yourself in bankruptcy court</p>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
@@ -353,12 +468,12 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.<br/>Last updated March 2026.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
-<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
 <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
 <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
 <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>

@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Debts from Fraud - Section 523(a)(2) - Nondischargeable</title>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" name="description"/>
+<title>Willful and Malicious Injury - Section 523(a)(6) - Nondischargeable</title>
+<meta content="Learn about willful and malicious injury - section 523(a)(6) | nondischargeable.org in our free 2026 guide." name="description"/>
 <meta content="nondischargeable debts, bankruptcy, nondischargeable" name="keywords"/>
-<link href="https://nondischargeable.org/fraud-debts.html" rel="canonical"/>
+<link href="https://nondischargeable.org/willful-injury.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="Debts from Fraud - Section 523(a)(2) - Nondischargeable" property="og:title"/>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" property="og:description"/>
+<meta content="Willful and Malicious Injury - Section 523(a)(6) - Nondischargeable" property="og:title"/>
+<meta content="Learn about willful and malicious injury - section 523(a)(6) | nondischargeable.org in our free 2026 guide." property="og:description"/>
 <meta content="website" property="og:type"/>
-<meta content="https://nondischargeable.org/fraud-debts.html" property="og:url"/>
+<meta content="https://nondischargeable.org/willful-injury.html" property="og:url"/>
 <meta content="nondischargeable.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Debts from Fraud - Section 523(a)(2) - Nondischargeable" name="twitter:title"/>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" name="twitter:description"/>
+<meta content="Willful and Malicious Injury - Section 523(a)(6) - Nondischargeable" name="twitter:title"/>
+<meta content="Learn about willful and malicious injury - section 523(a)(6) | nondischargeable.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://nondischargeable.org/og-image.svg" property="og:image"/>
 <meta content="https://nondischargeable.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -79,12 +79,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://nondischargeable.org/fraud-debts.html"
+      "mainEntityOfPage": "https://nondischargeable.org/willful-injury.html"
     },
     {
       "@type": "WebPage",
       "name": "Nondischargeable Debts",
-      "url": "https://nondischargeable.org/fraud-debts.html",
+      "url": "https://nondischargeable.org/willful-injury.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -173,31 +173,10 @@
   }
 </style>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a bankruptcy mill?", "acceptedAnswer": {"@type": "Answer", "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients."}}, {"@type": "Question", "name": "How do I know if my bankruptcy attorney is a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Warning signs include: you rarely speak with an actual attorney, your case is one of hundreds filed monthly, communications come only from paralegals, hearings are attended by attorneys you have never met, and billing entries are generic or duplicated."}}, {"@type": "Question", "name": "What problems do bankruptcy mills cause?", "acceptedAnswer": {"@type": "Answer", "text": "Common issues include missed deadlines, incorrect schedules, failure to claim available exemptions, dismissed cases, unnecessary fees, and lack of personalized legal advice. Clients may lose assets they could have protected with competent counsel."}}, {"@type": "Question", "name": "Can I fire my bankruptcy attorney if they are a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can substitute counsel or proceed pro se at any time. File a motion to substitute counsel with the court. You may also be entitled to a refund of fees for work not performed or performed negligently."}}, {"@type": "Question", "name": "How many cases should a bankruptcy attorney handle?", "acceptedAnswer": {"@type": "Answer", "text": "There is no hard limit, but attorneys filing more than 20-30 cases per month may struggle to provide adequate individual attention. Quality representation requires reviewing each client's unique financial situation, assets, and exemptions."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What debts are discharged in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury."}}, {"@type": "Question", "name": "How long does it take to get a bankruptcy discharge?", "acceptedAnswer": {"@type": "Answer", "text": "In Chapter 7, the discharge typically arrives about 60 days after the 341 meeting, or roughly 3-4 months after filing. In Chapter 13, the discharge comes after completing all plan payments, which takes 3-5 years."}}, {"@type": "Question", "name": "Can a creditor object to my discharge?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Creditors can file an adversary proceeding arguing that a specific debt should not be discharged due to fraud, misrepresentation, or other exceptions under 11 U.S.C. Section 523. They can also object to your entire discharge under Section 727 for misconduct like hiding assets."}}, {"@type": "Question", "name": "What is the difference between a discharge and a dismissal?", "acceptedAnswer": {"@type": "Answer", "text": "A discharge eliminates your personal liability for qualifying debts permanently. A dismissal ends your bankruptcy case without eliminating any debts, as if you never filed. A dismissal may also impose a waiting period before you can file again."}}, {"@type": "Question", "name": "Can my bankruptcy discharge be revoked?", "acceptedAnswer": {"@type": "Answer", "text": "In rare cases, yes. A discharge can be revoked within one year if the debtor committed fraud, failed to disclose assets, or refused to obey a court order. Revocation requires a court proceeding initiated by the trustee, a creditor, or the U.S. Trustee."}}]}
 </script>
-<link href="https://nondischargeable.org/fraud-debts.html" hreflang="en" rel="alternate"/>
-<link href="https://nondischargeable.org/fraud-debts-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://nondischargeable.org/willful-injury.html" hreflang="en" rel="alternate"/>
+<link href="https://nondischargeable.org/willful-injury-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -208,9 +187,9 @@
 <a href="/">Home</a>
 <a href="/tax-debts.html">Tax Debts</a>
 <a href="/student-loans.html">Student Loans</a>
-<a class="active" href="/fraud-debts.html">Fraud</a>
+<a href="/fraud-debts.html">Fraud</a>
 <a href="/support-obligations.html">Support</a>
-<a href="/willful-injury.html">Willful Injury</a>
+<a class="active" href="/willful-injury.html">Willful Injury</a>
 <a href="/adversary-proceeding.html">Adversary</a>
 <a href="/list-of-19.html">All 19</a>
 </div>
@@ -224,20 +203,20 @@
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>False Pretenses and False Representation</h2>
-<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2)(A) excepts from <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> debts obtained by false pretenses, false representation, or actual fraud. The creditor must prove that the debtor made a knowingly false statement that the creditor relied upon in extending credit.</p>
+<h2>What Qualifies</h2>
+<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(6) excepts from <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> debts arising from willful and malicious injury by the debtor to another entity or to the property of another entity. Both elements - willful AND malicious - must be present.</p>
+<p>Willful means the debtor intended the act itself. Malicious means the act was done without just cause or excuse. Mere negligence or recklessness is not enough.</p>
 </div>
 <div class="content-section">
-<h2>Credit Card Fraud Presumption</h2>
-<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2)(C) creates a presumption of fraud for certain credit card charges: luxury goods or services exceeding $725 within 90 days of filing, and cash advances exceeding $1,000 within 70 days of filing. These thresholds are adjusted periodically.</p>
+<h2>Common Examples</h2>
+<p>Intentional assault or battery. Intentional destruction of property. Conversion (taking someone elses property). Intentional fraud (overlaps with <a href="https://523a.org/" title="Section 523(a)">523(a)</a>(2)). Deliberately setting fire to property. Intentional breach of fiduciary duty.</p>
 </div>
 <div class="content-section">
-<h2>The 60-Day Deadline</h2>
-<p>Creditors who want to challenge dischargeability under <a href="https://523a.org/" title="Section 523(a)">523(a)</a>(2) must file an adversary proceeding within 60 days of the first date set for the 341 <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a>. If they miss this deadline, the debt is discharged regardless of fraud.</p>
-<p>This deadline is strictly enforced. Many fraud claims are lost simply because the creditor did not file in time.</p>
+<h2>Post-BAPCPA Change</h2>
+<p>Before 2005, willful and malicious injury debts were dischargeable in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> (part of the superdischarge). <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> added <a href="https://523a.org/" title="Section 523(a)">523(a)</a>(6) to the list of <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> exceptions. Today, these debts survive both <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and Chapter 13 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
 </div>
 <div class="cta-box">
-<p>Learn about all nondischargeable debts</p>
+<p>Learn about all exceptions</p>
 <a class="btn" href="https://nondischargeable.org">Nondischargeable Debts Guide</a>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -353,7 +332,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

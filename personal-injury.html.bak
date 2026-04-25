@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Debts from Fraud - Section 523(a)(2) - Nondischargeable</title>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" name="description"/>
-<meta content="nondischargeable debts, bankruptcy, nondischargeable" name="keywords"/>
-<link href="https://nondischargeable.org/fraud-debts.html" rel="canonical"/>
+<title>Personal Injury Judgments and Bankruptcy Discharge - Nondischargeable</title>
+<meta content="Learn about personal injury judgments and bankruptcy discharge | nondischargeable.org in our free 2026 guide." name="description"/>
+<meta content="personal injury judgment bankruptcy, 523(a)(6), willful malicious injury, DUI bankruptcy, dischargeable personal injury" name="keywords"/>
+<link href="https://nondischargeable.org/personal-injury.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="Debts from Fraud - Section 523(a)(2) - Nondischargeable" property="og:title"/>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" property="og:description"/>
-<meta content="website" property="og:type"/>
-<meta content="https://nondischargeable.org/fraud-debts.html" property="og:url"/>
+<meta content="Personal Injury Judgments and Bankruptcy Discharge - Nondischargeable" property="og:title"/>
+<meta content="Learn about personal injury judgments and bankruptcy discharge | nondischargeable.org in our free 2026 guide." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://nondischargeable.org/personal-injury.html" property="og:url"/>
 <meta content="nondischargeable.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Debts from Fraud - Section 523(a)(2) - Nondischargeable" name="twitter:title"/>
-<meta content="Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523" name="twitter:description"/>
+<meta content="Personal Injury Judgments and Bankruptcy Discharge - Nondischargeable" name="twitter:title"/>
+<meta content="Learn about personal injury judgments and bankruptcy discharge | nondischargeable.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://nondischargeable.org/og-image.svg" property="og:image"/>
 <meta content="https://nondischargeable.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -56,6 +56,53 @@
       "position": 2,
       "name": "Nondischargeable Debts",
       "item": "https://nondischargeable.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Personal Injury",
+      "item": "https://nondischargeable.org/personal-injury.html"
+    }
+  ]
+}
+</script>
+<!-- FAQPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are personal injury judgments dischargeable in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most personal injury judgments are dischargeable in bankruptcy. If the injury was caused by negligence - such as an ordinary car accident, a slip-and-fall, or medical malpractice - the resulting debt can generally be eliminated in Chapter 7 or Chapter 13. The exceptions are injuries caused by willful and malicious conduct under Section 523(a)(6), and injuries caused by driving under the influence under Section 523(a)(9)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between negligence and willful/malicious injury for bankruptcy purposes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Negligence means carelessness or failure to exercise reasonable care. A debt arising from negligent conduct is dischargeable. Willful and malicious injury under Section 523(a)(6) requires the debtor to have intended to cause the injury or to have acted with substantial certainty that injury would result. The Supreme Court clarified in Kawaauhau v. Geiger (1998) that Section 523(a)(6) requires a deliberate or intentional injury, not merely a deliberate act that leads to injury. Reckless or grossly negligent conduct is not sufficient."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are DUI personal injury debts dischargeable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Section 523(a)(9) specifically excepts from discharge any debt for death or personal injury caused by the debtor's operation of a motor vehicle, vessel, or aircraft while legally intoxicated. This applies in both Chapter 7 and Chapter 13. Unlike Section 523(a)(6), this exception does not require proof of intent - the fact that the debtor was intoxicated is sufficient to make the debt nondischargeable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a creditor file an adversary proceeding to block discharge of a personal injury judgment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only under Section 523(a)(6) for willful and malicious injury. The creditor must file a complaint within 60 days after the first date set for the Section 341 meeting of creditors. If the creditor misses this deadline, the debt is discharged - even if the injury was intentional. DUI injury debts under Section 523(a)(9) are automatically nondischargeable and do not require an adversary proceeding."
+      }
     }
   ]
 }
@@ -66,8 +113,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Nondischargeable Debts",
-      "description": "Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523",
+      "headline": "Personal Injury Judgments and Bankruptcy Discharge",
+      "description": "Are personal injury judgments dischargeable in bankruptcy? Most are - but willful/malicious injuries under 523(a)(6) and DUI injuries under 523(a)(9) are not.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -79,12 +126,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://nondischargeable.org/fraud-debts.html"
+      "mainEntityOfPage": "https://nondischargeable.org/personal-injury.html"
     },
     {
       "@type": "WebPage",
-      "name": "Nondischargeable Debts",
-      "url": "https://nondischargeable.org/fraud-debts.html",
+      "name": "Personal Injury Judgments and Bankruptcy Discharge",
+      "url": "https://nondischargeable.org/personal-injury.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -140,12 +187,17 @@
   main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
   .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
   .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.25rem 0 0.5rem; }
   .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
   .content-section p:last-child { margin-bottom: 0; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0; padding-left: 1.5rem; }
+  .content-section li { margin-bottom: 0.5rem; font-size: 0.95rem; }
   .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .green-box p { margin-bottom: 0.5rem; }
   .green-box p:last-child { margin-bottom: 0; }
-  .coming-soon { display: inline-block; background: var(--yellow); color: #0d1117; font-size: 0.75rem; font-weight: 700; padding: 0.2rem 0.6rem; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; }
+  .warning-box p:last-child { margin-bottom: 0; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -172,32 +224,8 @@
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
   }
 </style>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a bankruptcy mill?", "acceptedAnswer": {"@type": "Answer", "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients."}}, {"@type": "Question", "name": "How do I know if my bankruptcy attorney is a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Warning signs include: you rarely speak with an actual attorney, your case is one of hundreds filed monthly, communications come only from paralegals, hearings are attended by attorneys you have never met, and billing entries are generic or duplicated."}}, {"@type": "Question", "name": "What problems do bankruptcy mills cause?", "acceptedAnswer": {"@type": "Answer", "text": "Common issues include missed deadlines, incorrect schedules, failure to claim available exemptions, dismissed cases, unnecessary fees, and lack of personalized legal advice. Clients may lose assets they could have protected with competent counsel."}}, {"@type": "Question", "name": "Can I fire my bankruptcy attorney if they are a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can substitute counsel or proceed pro se at any time. File a motion to substitute counsel with the court. You may also be entitled to a refund of fees for work not performed or performed negligently."}}, {"@type": "Question", "name": "How many cases should a bankruptcy attorney handle?", "acceptedAnswer": {"@type": "Answer", "text": "There is no hard limit, but attorneys filing more than 20-30 cases per month may struggle to provide adequate individual attention. Quality representation requires reviewing each client's unique financial situation, assets, and exemptions."}}]}
-</script>
-<link href="https://nondischargeable.org/fraud-debts.html" hreflang="en" rel="alternate"/>
-<link href="https://nondischargeable.org/fraud-debts-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://nondischargeable.org/personal-injury.html" hreflang="en" rel="alternate"/>
+<link href="https://nondischargeable.org/personal-injury-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -208,7 +236,7 @@
 <a href="/">Home</a>
 <a href="/tax-debts.html">Tax Debts</a>
 <a href="/student-loans.html">Student Loans</a>
-<a class="active" href="/fraud-debts.html">Fraud</a>
+<a href="/fraud-debts.html">Fraud</a>
 <a href="/support-obligations.html">Support</a>
 <a href="/willful-injury.html">Willful Injury</a>
 <a href="/adversary-proceeding.html">Adversary</a>
@@ -216,29 +244,112 @@
 </div>
 </nav>
 <header>
-<h1><span class="accent">Nondischargeable Debts</span></h1>
-<p class="subtitle">Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/523" rel="noopener" target="_blank">Section 523</a></p>
+<h1><span class="accent">Personal Injury Judgments</span> and Bankruptcy Discharge</h1>
+<p class="subtitle">Most personal injury debts are dischargeable - but willful/malicious injuries and DUI injuries are not</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › Nondischargeable Debts
+<a href="https://1328f.com/">Network</a> › <a href="/">Nondischargeable Debts</a> › Personal Injury
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>False Pretenses and False Representation</h2>
-<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2)(A) excepts from <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> debts obtained by false pretenses, false representation, or actual fraud. The creditor must prove that the debtor made a knowingly false statement that the creditor relied upon in extending credit.</p>
+<h2>The General Rule: Most Personal Injury Debts Are Dischargeable</h2>
+<p>If you owe money because of a personal injury - a car accident, a slip-and-fall, medical malpractice, or any other incident where someone was hurt due to your negligence - that debt can generally be discharged in bankruptcy. This surprises many people, because personal injury judgments can be very large. But under the Bankruptcy Code, the size of a debt has nothing to do with whether it can be discharged.</p>
+<p>The key question is not how much you owe, but how the injury occurred. The Bankruptcy Code carves out two specific exceptions for personal injury debts: one for willful and malicious injuries under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(6), and one for injuries caused by drunk driving under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(9). Everything else - the vast majority of personal injury cases - is dischargeable.</p>
+<div class="green-box">
+<p><strong>Important distinction:</strong> Negligence-based personal injury debts are dischargeable. Only intentional injuries and DUI injuries survive bankruptcy. This distinction matters enormously for debtors facing large PI judgments.</p>
+</div>
 </div>
 <div class="content-section">
-<h2>Credit Card Fraud Presumption</h2>
-<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2)(C) creates a presumption of fraud for certain credit card charges: luxury goods or services exceeding $725 within 90 days of filing, and cash advances exceeding $1,000 within 70 days of filing. These thresholds are adjusted periodically.</p>
+<h2>Exception 1: Willful and Malicious Injury - Section 523(a)(6)</h2>
+<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(6) of the Bankruptcy Code excepts from <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> any debt "for willful and malicious injury by the debtor to another entity or to the property of another entity." Both elements - willful and malicious - must be present for the exception to apply.</p>
+<h3>What "Willful" Means</h3>
+<p>The Supreme Court addressed this in Kawaauhau v. Geiger, 523 U.S. 57 (1998). The Court held that "willful" in <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(6) means the debtor intended to cause the injury itself, not merely that the debtor intended to perform the act that resulted in injury. This is a critical distinction.</p>
+<p>For example: if you punch someone in the face, you intended to cause injury - that is willful. But if you run a red light and hit a pedestrian, you intended to run the red light, but you did not intend to injure the pedestrian. The first scenario is willful; the second is negligent (or possibly reckless), but not willful under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(6).</p>
+<h3>What "Malicious" Means</h3>
+<p>Most courts define "malicious" as conduct that is wrongful and without just cause or excuse. It does not require personal hatred or ill will toward the victim. Acting in conscious disregard of one's duty or with knowledge that the act is certain to cause harm can satisfy the malice requirement in some circuits.</p>
+<h3>The Creditor Must File an Adversary Proceeding</h3>
+<p><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(6) is one of the exceptions that requires a creditor to file a timely adversary proceeding. The creditor must file a complaint within 60 days of the first date set for the <a href="https://www.law.cornell.edu/uscode/text/11/341" rel="noopener" target="_blank">Section 341</a> <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a> (Federal Rule of Bankruptcy Procedure 4007(c)). If the creditor misses this deadline, the debt is discharged - even if the injury was truly willful and malicious.</p>
+<p>This procedural requirement is a significant protection for debtors. A creditor who fails to act within the 60-day window permanently loses the right to challenge dischargeability under <a href="https://523a.org/" title="Section 523(a)">Section 523(a)</a>(6). For more on this process, see our <a href="/adversary-proceeding.html">adversary proceedings guide</a>.</p>
 </div>
 <div class="content-section">
-<h2>The 60-Day Deadline</h2>
-<p>Creditors who want to challenge dischargeability under <a href="https://523a.org/" title="Section 523(a)">523(a)</a>(2) must file an adversary proceeding within 60 days of the first date set for the 341 <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a>. If they miss this deadline, the debt is discharged regardless of fraud.</p>
-<p>This deadline is strictly enforced. Many fraud claims are lost simply because the creditor did not file in time.</p>
+<h2>Exception 2: DUI/DWI Injuries - Section 523(a)(9)</h2>
+<p><a href="https://523a.org/" title="Section 523(a)">Section 523(a)</a>(9) excepts from <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> any debt "for death or personal injury caused by the debtor's operation of a motor vehicle, vessel, or aircraft if such operation was unlawful because the debtor was intoxicated from using alcohol, a drug, or another substance."</p>
+<p>This exception is broader than Section 523(a)(6) in an important way: it does not require intent. The fact that the debtor was legally intoxicated at the time of the accident is sufficient. It does not matter whether the debtor intended to hurt anyone or even whether the debtor was driving negligently apart from the intoxication.</p>
+<div class="warning-box">
+<p><strong>Section 523(a)(9) is automatic.</strong> Unlike Section 523(a)(6), the DUI injury exception does not require an adversary proceeding. The debt is nondischargeable by operation of law. The creditor does not need to file any complaint within any deadline. The debt simply survives the discharge.</p>
+</div>
+<p>The exception covers:</p>
+<ul>
+<li>Motor vehicles (cars, trucks, motorcycles)</li>
+<li>Vessels (boats)</li>
+<li>Aircraft</li>
+<li>Both death and personal injury (property damage alone is not covered by this specific exception)</li>
+</ul>
+<p>The debtor must have been legally intoxicated under applicable law. The standard varies by state but is typically a blood alcohol concentration (BAC) of 0.08% or higher for motor vehicles.</p>
+</div>
+<div class="content-section">
+<h2>Negligence-Based Personal Injury: Fully Dischargeable</h2>
+<p>If your personal injury debt arose from ordinary negligence, it is dischargeable in both <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>. This includes:</p>
+<ul>
+<li><strong>Car accidents</strong> where you were at fault but not intoxicated</li>
+<li><strong>Slip-and-fall</strong> injuries on your property</li>
+<li><strong>Medical malpractice</strong> claims against you as a healthcare provider</li>
+<li><strong>Product liability</strong> claims based on negligent design or manufacture</li>
+<li><strong>Professional negligence</strong> (<a href="https://bankruptcymalpractice.org" rel="noopener" target="_blank" title="Legal Malpractice in Bankruptcy - Open Bankruptcy Project">legal malpractice</a>, accounting errors, etc.)</li>
+<li><strong>Dog bite</strong> claims in jurisdictions with strict liability or negligence standards</li>
+</ul>
+<p>Even gross negligence - conduct that falls far below the standard of reasonable care - is generally considered dischargeable. Most courts hold that gross negligence, while more culpable than ordinary negligence, does not rise to the level of "willful and malicious" required by Section 523(a)(6). The Kawaauhau decision reinforced this by requiring actual intent to injure.</p>
+</div>
+<div class="content-section">
+<h2>Insurance vs. Personal Liability</h2>
+<p>An important practical consideration: most personal injury claims are covered by insurance. If you have auto insurance, homeowner's insurance, or professional liability insurance, the insurance company pays the judgment (up to policy limits). You only face personal liability if:</p>
+<ul>
+<li>You had no insurance at the time of the incident</li>
+<li>The judgment exceeds your policy limits</li>
+<li>The insurance company denies coverage (for example, for intentional acts)</li>
+<li>You failed to cooperate with the insurer and they withdrew coverage</li>
+</ul>
+<p>When a personal injury creditor files an adversary proceeding under Section 523(a)(6), one common strategy is to argue that the debtor's conduct was intentional rather than negligent. Why? Because if the conduct was intentional, not only is the debt nondischargeable, but the debtor's insurance likely does not cover intentional acts, leaving the debtor personally exposed. This creates an ironic dynamic where the creditor argues the worst possible conduct to maximize their recovery.</p>
+</div>
+<div class="content-section">
+<h2>How PI Creditors Use Section 523(a)(6) Adversary Proceedings</h2>
+<p>Personal injury creditors who believe the debtor acted intentionally will file an adversary proceeding within the 60-day deadline. The creditor must prove both willfulness and malice by a preponderance of the evidence.</p>
+<p>Common scenarios where PI creditors invoke Section 523(a)(6):</p>
+<ul>
+<li><strong>Assault and battery:</strong> Physical attacks that cause injury - the most straightforward case for willful and malicious injury</li>
+<li><strong>Domestic violence:</strong> Injuries from physical abuse by a spouse or partner</li>
+<li><strong>Intentional property destruction:</strong> Arson, vandalism, or deliberate damage</li>
+<li><strong>Road rage:</strong> Using a vehicle as a weapon or deliberately causing a collision</li>
+<li><strong>Stalking or harassment:</strong> Conduct intended to cause emotional distress</li>
+</ul>
+<p>The creditor's challenge is proving intent. If the debtor was convicted of a crime related to the injury (assault, for example), the criminal conviction can be used as evidence in the adversary proceeding. Some courts give the conviction preclusive effect, meaning the debtor cannot relitigate the facts underlying the conviction.</p>
+</div>
+<div class="content-section">
+<h2>Chapter 7 vs. Chapter 13 Treatment</h2>
+<h3>Chapter 7</h3>
+<p>In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, negligence-based PI debts are discharged along with other unsecured debts. The debtor walks away with no further obligation. Willful/malicious injury debts and DUI injury debts survive the discharge.</p>
+<h3>Chapter 13</h3>
+<p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> offers a broader "superdischarge" under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(a) that can discharge certain debts that would survive Chapter 7 - but the superdischarge does not help with personal injury debts in most cases. Section 523(a)(6) debts for willful and malicious injury are excepted from the Chapter 13 superdischarge. Section 523(a)(9) DUI injury debts are also excepted. This means these debts survive in both chapters.</p>
+<p>However, negligence-based PI debts are dischargeable in both Chapter 7 and Chapter 13, so the chapter choice does not affect their treatment. The advantage of Chapter 13 for someone with a large PI judgment is that the debtor can propose a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a> that pays creditors over 3-5 years based on disposable income, rather than facing immediate liquidation.</p>
+</div>
+<div class="content-section">
+<h2>Frequently Asked Questions</h2>
+<h3>Are personal injury judgments dischargeable in bankruptcy?</h3>
+<p>Most personal injury judgments are dischargeable. If the injury was caused by negligence - such as an ordinary car accident, a slip-and-fall, or medical malpractice - the resulting debt can generally be eliminated in Chapter 7 or Chapter 13. The exceptions are injuries caused by willful and malicious conduct under Section 523(a)(6), and injuries caused by driving under the influence under Section 523(a)(9).</p>
+<h3>What is the difference between negligence and willful/malicious injury?</h3>
+<p>Negligence means carelessness or failure to exercise reasonable care. Willful and malicious injury under Section 523(a)(6) requires the debtor to have intended to cause the injury or to have acted with substantial certainty that injury would result. The Supreme Court clarified in Kawaauhau v. Geiger (1998) that Section 523(a)(6) requires a deliberate or intentional injury, not merely a deliberate act that leads to injury.</p>
+<h3>Are DUI personal injury debts dischargeable?</h3>
+<p>No. Section 523(a)(9) specifically excepts from discharge any debt for death or personal injury caused by the debtor's operation of a motor vehicle, vessel, or aircraft while legally intoxicated. This applies in both Chapter 7 and Chapter 13 and does not require an adversary proceeding.</p>
+<h3>Can a creditor file an adversary proceeding to block discharge of a personal injury judgment?</h3>
+<p>Yes, but only under Section 523(a)(6) for willful and malicious injury. The creditor must file a complaint within 60 days after the first date set for the Section <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>. If the creditor misses this deadline, the debt is discharged. DUI injury debts under Section 523(a)(9) are automatically nondischargeable and do not require an adversary proceeding.</p>
 </div>
 <div class="cta-box">
-<p>Learn about all nondischargeable debts</p>
-<a class="btn" href="https://nondischargeable.org">Nondischargeable Debts Guide</a>
+<h3>Explore Related Topics</h3>
+<p>Learn more about willful injury exceptions and adversary proceedings.</p>
+<div class="cta-links">
+<a class="primary-btn" href="/willful-injury.html">Willful Injury - 523(a)(6)</a>
+<a class="secondary-btn" href="/adversary-proceeding.html">Adversary Proceedings</a>
+</div>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
@@ -260,9 +371,8 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://523a.org" style="color:#58a6ff">Nondischargeable Debts</a> - Which debts survive bankruptcy under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcytaxes.org" style="color:#58a6ff">Taxes in Bankruptcy</a> - Which tax debts can be discharged and which survive</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://dischargeinjunction.org" style="color:#58a6ff">The Discharge Injunction</a> - How <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a> permanently bars creditor collection after discharge</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://523a.org" style="color:#58a6ff">Section 523(a)</a> - Complete guide to nondischargeable debts in bankruptcy</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://dischargeinjunction.com" style="color:#58a6ff">The Discharge Injunction</a> - How <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a> permanently bars creditor collection after discharge</p>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
@@ -353,12 +463,12 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.<br/>Last updated March 2026.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
-<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
 <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
 <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
 <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
